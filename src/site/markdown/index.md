@@ -18,7 +18,7 @@
 Welcome to the **Hippo Forge on Github**, the community place for plugins, add-ons and extensions built on top of Hippo CMS 
 or Hippo DX.
       
-This documentation site for the projects at [onehippo-forge.github.com](https://onehippo-forge.github.com) will contain 
+This documentation site for the projects at [github.com/onehippo-forge](https://github.com/onehippo-forge) will contain 
 an overview of projects at [the project list page](project-list.html).
 
 Initially this space will contain projects that will be migrated in Q1 2017 from the discontinued Hippo Forge at 
