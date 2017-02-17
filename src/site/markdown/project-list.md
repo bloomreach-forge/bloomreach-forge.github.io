@@ -20,5 +20,6 @@ The list is to be completed in Q1 2017.
 
 | Name                   | Repository |  Documentation  | 
 | ---------------------- |:----------------------:| -----------:|
-| (example) Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin) 
+| Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb) 
+| Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin) 
 
