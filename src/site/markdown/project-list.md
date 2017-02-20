@@ -33,8 +33,8 @@ Here's a list of projects on Hippo Forge on Github.
 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | TBD
 | JCR POJO Binding | [/onehippo-forge/jcr-pojo-binding](https://github.com/onehippo-forge/jcr-pojo-binding) | TBD
 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | TBD
-| Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [github.io/properties](https://onehippo-forge.github.io/properties)
+| Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [github.io/properties](https://onehippo-forge.github.io/properties/)
 | Rating Field Plugin | [/onehippo-forge/rating-field](https://github.com/onehippo-forge/rating-field) | TBD
 | Repository WebDAV Support | [/onehippo-forge/webdav-support](https://github.com/onehippo-forge/webdav-support) | TBD
 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | TBD
-| Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | TBD
+    | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
