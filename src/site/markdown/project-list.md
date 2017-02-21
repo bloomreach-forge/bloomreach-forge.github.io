@@ -14,7 +14,7 @@ Here's a list of projects on Hippo Forge on Github.
 | Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | TBD
 | Document Translation Picker | [/onehippo-forge//document-translation-picker](https://github.com/onehippo-forge//document-translation-picker) | TBD
 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | TBD
-| Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | TBD
+| Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [github.io/embargo](https://onehippo-forge.github.io/embargo/)
 | External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | TBD
 | External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | TBD
 | Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | TBD
@@ -37,4 +37,4 @@ Here's a list of projects on Hippo Forge on Github.
 | Rating Field Plugin | [/onehippo-forge/rating-field](https://github.com/onehippo-forge/rating-field) | TBD
 | Repository WebDAV Support | [/onehippo-forge/webdav-support](https://github.com/onehippo-forge/webdav-support) | TBD
 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | TBD
-    | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
+| Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
