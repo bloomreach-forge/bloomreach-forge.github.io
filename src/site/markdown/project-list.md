@@ -21,7 +21,7 @@ Here's a list of projects on Hippo Forge on Github.
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | TBD
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin) 
-| Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | TBD
+| Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [onehippo-forge.github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
 | Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | TBD
 | HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
 | HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
