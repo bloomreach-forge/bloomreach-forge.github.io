@@ -17,7 +17,7 @@ Here's a list of projects on Hippo Forge on Github.
 | Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [github.io/embargo](https://onehippo-forge.github.io/embargo/)
 | External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | TBD
 | External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | TBD
-| Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | TBD
+| Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | [onehippo-forge.github.io/feeds](https://onehippo-forge.github.io/feeds)
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | TBD
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin) 
@@ -36,5 +36,5 @@ Here's a list of projects on Hippo Forge on Github.
 | Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [github.io/properties](https://onehippo-forge.github.io/properties/)
 | Rating Field Plugin | [/onehippo-forge/rating-field](https://github.com/onehippo-forge/rating-field) | TBD
 | Repository WebDAV Support | [/onehippo-forge/webdav-support](https://github.com/onehippo-forge/webdav-support) | TBD
-| Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | TBD
+| Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | [onehippo-forge.github.io/reset-password](https://onehippo-forge.github.io/reset-password)
 | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
