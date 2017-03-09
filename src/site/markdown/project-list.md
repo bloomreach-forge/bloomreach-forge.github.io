@@ -9,7 +9,7 @@ Here's a list of projects on Hippo Forge on Github.
 | Apache Camel Hippo Events Support | [/onehippo-forge/camel-events-support](https://github.com/onehippo-forge/camel-events-support) | TBD
 | Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb) 
 | Content Export / Import | [/onehippo-forge/content-export-import](https://github.com/onehippo-forge/content-export-import) | TBD
-| Channel Manager Page Management Support | [/onehippo-forge//page-management-support](https://github.com/onehippo-forge/page-management-support) | TBD
+| Channel Manager Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [github.io/page-management-support](https://onehippo-forge.github.io/page-management-support)
 | CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | TBD
 | Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | TBD
 | Document Translation Picker | [/onehippo-forge//document-translation-picker](https://github.com/onehippo-forge//document-translation-picker) | TBD
@@ -21,7 +21,7 @@ Here's a list of projects on Hippo Forge on Github.
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | TBD
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin) 
-| Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [onehippo-forge.github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
+| Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
 | Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | TBD
 | HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
 | HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
