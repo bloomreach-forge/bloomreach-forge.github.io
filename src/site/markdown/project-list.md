@@ -1,7 +1,7 @@
 
 ## Projects
 
-Here's a list of projects on Hippo Forge on Github. 
+Here's a list of projects on [the Hippo Forge on Github](https://github.com/onehippo-forge). 
 
 | Name                   | GitHub Repository |  Documentation  | 
 | ---------------------- |:----------------------:| -----------:|

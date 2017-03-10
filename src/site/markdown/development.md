@@ -1,31 +1,41 @@
 
-## Project Development
+## Development
 
-On the Hippo Forge, projects are maintained by Hippo. Hippo will not give push rights to external developers. 
+On the Hippo Forge, plugins are developed and maintained by the Hippo Community. However, since Hippo will not give push 
+rights to external developers, we like code contributions! 
+
+Also, plugins can be maintained during the course of an implementation project. For instance, it is pretty common for a 
+plugin to be upgraded during a project upgrade. This also goes for new features or bug fixing.
 
 ### Code Contributions
 On GitHub, code contributions exist in the form of pull requests. External organisations can always drive those pull 
-requests, or feature requests, or release requests by contacting our services department.
+requests, or feature requests, or release requests by contacting the 
+[Hippo services department](https://www.onehippo.com/en/professional-services).
 
-TODO [link]
+See also the [GitHub documentation on contributing](https://guides.github.com/activities/contributing-to-open-source/#contributing), 
+basically forking and developing in a separate branch.
 
-##### Forking
+### Forking
 Forking into other (non-Hippo) GitHub locations is of course a possibility for further development on behalf of your 
-project as well. In fact, a fork is the starting point of a pull request! 
-TODO [link]
+project as well. In fact, a fork is the starting point of a pull request!  
+
+See also the [GitHub documentation on forking](https://guides.github.com/activities/forking/).
 
 ### Branching Strategy
-TODO git flow [link] 
+We like to adhere to the the well-established [Git Flow by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/).
 
-### External Systems 
- 
-##### Artifact Repository
-Hippo Maven Repository at [maven.onehippo.com/maven2/](http://maven.onehippo.com/maven2/org/onehippo/forge/)
-(in `org/onehippo/forge` subfolder).
-Maybe later we'll move to Maven Central.
+In short, the 'master' branch is always the same as the latest release, whilst the 'develop' branch is used as base for 
+features and bugfixes. We intend to write some more detailed documentation on how to hanlde branching and releasing.
 
-##### Issue Tracking
-Hippo's JIRA at [issues.onehippo.com/browse/HIPFORGE](https://issues.onehippo.com/browse/HIPFORGE)
+### Artifact Repository
+We publish to the Hippo Maven Forge Repository at [maven.onehippo.com/maven2-forge/](http://maven.onehippo.com/maven2-forge/).
 
-##### Continuous Integration
-Travis at [travis-ci.org/onehippo-forge/](https://travis-ci.org/onehippo-forge/)
+The Maven `<distributionManagement><url>` value is to be set at `https://maven.onehippo.com/content/repositories/forge-releases/`.
+
+Maybe later we will apply for a spot in Maven Central.
+
+### Issue Tracking
+Hippo's JIRA at [issues.onehippo.com/browse/HIPFORGE](https://issues.onehippo.com/browse/HIPFORGE).
+
+### Continuous Integration
+Travis at [travis-ci.org/onehippo-forge/](https://travis-ci.org/onehippo-forge/).

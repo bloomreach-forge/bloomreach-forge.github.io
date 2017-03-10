@@ -12,7 +12,9 @@
   <body>
     <menu>
       <item name="Home" href="index.html" />
-      <item name="Projects" href="project-list.html" />
+      <item name="Project List" href="project-list.html" />
+      <item name="Development" href="development.html" />
+      <item name="Quality Checklist" href="checklist.html" />
     </menu>
   </body>
 </project>

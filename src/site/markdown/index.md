@@ -4,16 +4,22 @@
 Welcome to the **Hippo Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of Hippo 
 CMS or Hippo DX.
 
-### The projects
-An overview of all projects at [github.com/onehippo-forge](https://github.com/onehippo-forge) can be found at 
-[the project list page](project-list.html).
+_Community plugins are maintained by the Hippo community and by implementation projects._ <br/>
+For instance, it is common for a plugin upgrade to be triggered by a project upgrade.
 
-Initially, 33 selected projects were migrated in Q1 2017 from the discontinued Hippo SVN Forge at 
-[forge.onehippo.org](https://forge.onehippo.org).
+### The projects
+See [the project list page](project-list.html) for an overview of all projects at hosted at [github.com/onehippo-forge]
+(https://github.com/onehippo-forge).
+
+Initially, 33 selected projects were migrated in Q1 2017 from the discontinued Hippo SVN Forge at [forge.onehippo.org]
+(https://forge.onehippo.org).
+
+### Development
+See [the development page](development.html) for some standards regarding developing a plugin project. There is also a
+[quality checklist](checklist.html). 
 
 ### Archived SVN projects
-The remaining projects in the old SVN have been archived in 
-[the Hippo SVN attic](https://svn.onehippo.org/repos/hippo/attic/forge/).
+The discontinued Hippo SVN Forge has been archived in the [Hippo SVN attic](http://svn.onehippo.org/repos/hippo/attic/forge/).
 
 ### Hippo, a BloomReach company
 For general information about Hippo and BloomReach, see [onehippo.org](https://www.onehippo.org), 
