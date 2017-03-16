@@ -3,7 +3,7 @@
     <b>Redirected here?</b><br/>
     You may have been redirected here from <a href="https://forge.onehippo.org">forge.onehippo.org</a>.<br/>
     That Hippo SVN Forge has been discontinued on 16 March 2017 and followed up on GitHub at <a href="https://github.com/onehippo-forge">github.com/onehippo-forge</a><br/>
-    Artifacts can be retrieved from the Hippo Maven Forge Repository at <a href="http://maven.onehippo.com/maven2-forge/">http://maven.onehippo.com/maven2-forge</a>.
+    Artifacts previously in SVN can now be retrieved from the Hippo Maven Forge Repository at <a href="http://maven.onehippo.com/maven2-forge/">http://maven.onehippo.com/maven2-forge</a>.
 </p>
 
 ## Welcome!
