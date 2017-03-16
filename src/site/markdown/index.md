@@ -1,4 +1,11 @@
 
+<p class="alert alert-success">
+    <b>Redirected here?</b><br/>
+    You may have been redirected here from <a href="https://forge.onehippo.org">forge.onehippo.org</a>.<br/>
+    That Hippo SVN Forge has been discontinued on 16 March 2017 and followed up on GitHub at <a href="https://github.com/onehippo-forge">github.com/onehippo-forge</a> 
+</p>
+
+
 ## Welcome!
 
 Welcome to the **Hippo Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of Hippo 
@@ -11,7 +18,7 @@ For instance, it is common for a plugin upgrade to be triggered by a project upg
 See [the project list page](project-list.html) for an overview of all projects at hosted at [github.com/onehippo-forge]
 (https://github.com/onehippo-forge).
 
-Initially, 33 selected projects were migrated in Q1 2017 from the discontinued Hippo SVN Forge at [forge.onehippo.org]
+Initially, 33 selected projects were migrated in March 2017 from the discontinued Hippo SVN Forge at [forge.onehippo.org]
 (https://forge.onehippo.org).
 
 ### Development
