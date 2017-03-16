@@ -28,9 +28,9 @@ In short, the 'master' branch is always the same as the latest release, whilst t
 features and bugfixes. We intend to write some more detailed documentation on how to handle branching and releasing.
 
 ### Artifact Repository
-We publish to the Hippo Maven Forge Repository at [maven.onehippo.com/maven2-forge/](http://maven.onehippo.com/maven2-forge/).
+Artifacts can be retrieved from the Hippo Maven Forge Repository at [maven.onehippo.com/maven2-forge/](http://maven.onehippo.com/maven2-forge/).
 
-The Maven `<distributionManagement><url>` value is to be set at `https://maven.onehippo.com/content/repositories/forge-releases/`.
+For publishing, the Maven `distributionManagement.repository.url` value is to be set at `https://maven.onehippo.com/content/repositories/forge-releases/`. 
 
 Maybe later we will apply for a spot in Maven Central.
 

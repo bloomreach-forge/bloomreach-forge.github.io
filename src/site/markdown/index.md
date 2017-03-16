@@ -5,7 +5,6 @@
     That Hippo SVN Forge has been discontinued on 16 March 2017 and followed up on GitHub at <a href="https://github.com/onehippo-forge">github.com/onehippo-forge</a> 
 </p>
 
-
 ## Welcome!
 
 Welcome to the **Hippo Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of Hippo 
@@ -20,6 +19,10 @@ See [the project list page](project-list.html) for an overview of all projects a
 
 Initially, 33 selected projects were migrated in March 2017 from the discontinued Hippo SVN Forge at [forge.onehippo.org]
 (https://forge.onehippo.org).
+
+**URL Rewriter exception**  
+The URL Rewriter plugin has been so successful that it has migrated to [Hippo GitLab](https://code.onehippo.org/cms-community/hippo-plugin-urlrewriter)
+instead of GitHub.
 
 ### Development
 See [the development page](development.html) for some standards regarding developing a plugin project. There is also a
