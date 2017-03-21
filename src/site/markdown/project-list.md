@@ -16,7 +16,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | TBD
 | Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [github.io/embargo](https://onehippo-forge.github.io/embargo/)
 | External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | TBD
-| External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | TBD
+| External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | [github.io/external-resources](https://onehippo-forge.github.io/external-resources)
 | Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | [onehippo-forge.github.io/feeds](https://onehippo-forge.github.io/feeds)
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | [github.io/gallery-magick](https://onehippo-forge.github.io/gallery-magick)
