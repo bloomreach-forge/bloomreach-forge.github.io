@@ -15,6 +15,10 @@
       <item name="Project List" href="project-list.html" />
       <item name="Development" href="development.html" />
       <item name="Quality Checklist" href="checklist.html" />
+      <item name="Release Process" href="release-process.html">
+        <item name="Standard Release Process" href="standard-release-process.html" />
+        <item name="Maintenance Release Process" href="maintenance-release-process.html" />
+      </item>
     </menu>
   </body>
 </project>
