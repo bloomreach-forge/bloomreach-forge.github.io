@@ -5,17 +5,17 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 
 | Name                   | GitHub Repository |  Documentation  |
 | ---------------------- |:----------------------:| -----------:|
-| Advanced Search Taxonomy Workflow | [/onehippo-forge/advanced-search-taxonomy-workflow](https://github.com/onehippo-forge/advanced-search-taxonomy-workflow) | TBD
-| Apache Camel Hippo Events Support | [/onehippo-forge/camel-events-support](https://github.com/onehippo-forge/camel-events-support) | TBD
-| Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb)
+| Advanced Search Taxonomy Workflow | [/onehippo-forge/advanced-search-taxonomy-workflow](https://github.com/onehippo-forge/advanced-search-taxonomy-workflow) | [onehippo-forge.github.io/advanced-search-taxonomy-workflow/](https://onehippo-forge.github.io/advanced-search-taxonomy-workflow/)
+| Apache Camel Hippo Events Support | [/onehippo-forge/camel-events-support](https://github.com/onehippo-forge/camel-events-support) | [onehippo-forge.github.io/camel-events-support](https://onehippo-forge.github.io/camel-events-support)
+| Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb) 
 | Content Export / Import | [/onehippo-forge/content-export-import](https://github.com/onehippo-forge/content-export-import) | [github.io/content-export-import](https://onehippo-forge.github.io/content-export-import)
 | Channel Manager Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [github.io/page-management-support](https://onehippo-forge.github.io/page-management-support)
 | CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | TBD
 | Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | TBD
-| Document Translation Picker | [/onehippo-forge//document-translation-picker](https://github.com/onehippo-forge//document-translation-picker) | TBD
+| Document Translation Picker | [/onehippo-forge/document-translation-picker](https://github.com/onehippo-forge/document-translation-picker) | TBD
 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | TBD
 | Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [github.io/embargo](https://onehippo-forge.github.io/embargo/)
-| External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | TBD
+| External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | [github.io/external-document-picker](https://onehippo-forge.github.io/external-document-picker)
 | External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | [github.io/external-resources](https://onehippo-forge.github.io/external-resources)
 | Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | [onehippo-forge.github.io/feeds](https://onehippo-forge.github.io/feeds)
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
