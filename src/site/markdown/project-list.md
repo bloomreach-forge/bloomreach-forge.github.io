@@ -7,7 +7,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | ---------------------- |:----------------------:| -----------:|
 | Advanced Search Taxonomy Workflow | [/onehippo-forge/advanced-search-taxonomy-workflow](https://github.com/onehippo-forge/advanced-search-taxonomy-workflow) | [onehippo-forge.github.io/advanced-search-taxonomy-workflow/](https://onehippo-forge.github.io/advanced-search-taxonomy-workflow/)
 | Apache Camel Hippo Events Support | [/onehippo-forge/camel-events-support](https://github.com/onehippo-forge/camel-events-support) | [onehippo-forge.github.io/camel-events-support](https://onehippo-forge.github.io/camel-events-support)
-| Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb) 
+| Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb)
 | Content Export / Import | [/onehippo-forge/content-export-import](https://github.com/onehippo-forge/content-export-import) | [github.io/content-export-import](https://onehippo-forge.github.io/content-export-import)
 | Channel Manager Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [github.io/page-management-support](https://onehippo-forge.github.io/page-management-support)
 | CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | TBD
@@ -22,7 +22,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | [github.io/gallery-magick](https://onehippo-forge.github.io/gallery-magick)
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin)
 | Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
-| Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | TBD
+| Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | [onehippo-forge.github.io/hipshoot/](https://onehippo-forge.github.io/hipshoot/)
 | HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
 | HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
 | HST PDF Renderer | [/onehippo-forge/hst-pdf-renderer](https://github.com/onehippo-forge/hst-pdf-renderer) | TBD
