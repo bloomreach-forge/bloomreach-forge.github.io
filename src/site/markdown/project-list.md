@@ -27,7 +27,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
 | HST PDF Renderer | [/onehippo-forge/hst-pdf-renderer](https://github.com/onehippo-forge/hst-pdf-renderer) | TBD
 | HST Salesforce Integration | [/onehippo-forge/hst-salesforce-integration](https://github.com/onehippo-forge/hst-salesforce-integration) | TBD
-| HST Spring Support | [/onehippo-forge/hst-spring](https://github.com/onehippo-forge/hst-spring) | TBD
+| HST Spring Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [onehippo-forge.github.io/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
 | HST Spring Security Support | [/onehippo-forge/hst-spring-security](https://github.com/onehippo-forge/hst-spring-security) | [onehippo-forge.github.io/hst-spring-security](https://onehippo-forge.github.io/hst-spring-security/)
 | IFrame Perspective | [/onehippo-forge/iframe-perspective](https://github.com/onehippo-forge/iframe-perspective) | TBD
 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | TBD
