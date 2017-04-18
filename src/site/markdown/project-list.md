@@ -24,7 +24,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Hippo Repository JCR over WebDAV Support | [/onehippo-forge/hippo-jcr-over-webdav](https://github.com/onehippo-forge/hippo-jcr-over-webdav) | [onehippo-forge.github.io/hippo-jcr-over-webdav/](https://onehippo-forge.github.io/hippo-jcr-over-webdav/) 
 | Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
 | Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | [onehippo-forge.github.io/hipshoot/](https://onehippo-forge.github.io/hipshoot/)
-| HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
+| HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | [onehippo-forge.github.io/hst-shiro/](https://onehippo-forge.github.io/hst-shiro/)
 | HST Content Version Utils | [/onehippo-forge/hst-content-version-utils](https://github.com/onehippo-forge/hst-content-version-utils) | [https://onehippo-forge.github.io/hst-content-version-utils/](https://onehippo-forge.github.io/hst-content-version-utils/) 
 | HST PDF Renderer | [/onehippo-forge/hst-pdf-renderer](https://github.com/onehippo-forge/hst-pdf-renderer) | [onehippo-forge.github.io/hst-pdf-renderer/](https://onehippo-forge.github.io/hst-pdf-renderer/) 
 | HST Salesforce Integration | [/onehippo-forge/hst-salesforce-integration](https://github.com/onehippo-forge/hst-salesforce-integration) | TBD
