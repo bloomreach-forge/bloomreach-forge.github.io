@@ -29,7 +29,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | HST Salesforce Integration | [/onehippo-forge/hst-salesforce-integration](https://github.com/onehippo-forge/hst-salesforce-integration) | TBD
 | HST Spring Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [onehippo-forge.github.io/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
 | HST Spring Security Support | [/onehippo-forge/hst-spring-security](https://github.com/onehippo-forge/hst-spring-security) | [onehippo-forge.github.io/hst-spring-security](https://onehippo-forge.github.io/hst-spring-security/)
-| IFrame Perspective | [/onehippo-forge/iframe-perspective](https://github.com/onehippo-forge/iframe-perspective) | TBD
+| IFrame Perspective | [/onehippo-forge/iframe-perspective](https://github.com/onehippo-forge/iframe-perspective) | [onehippo-forge.github.io/iframe-perspective/](https://onehippo-forge.github.io/iframe-perspective/)
 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | TBD
 | JCR POJO Binding | [/onehippo-forge/jcr-pojo-binding](https://github.com/onehippo-forge/jcr-pojo-binding) | [onehippo-forge.github.io/jcr-pojo-binding](https://onehippo-forge.github.io/jcr-pojo-binding/)
 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | TBD
