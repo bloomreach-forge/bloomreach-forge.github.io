@@ -21,13 +21,14 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | [onehippo-forge.github.io/folder-context-menus/](https://onehippo-forge.github.io/folder-context-menus/) 
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | [github.io/gallery-magick](https://onehippo-forge.github.io/gallery-magick)
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin)
+| Hippo Repository JCR over WebDAV Support | [/onehippo-forge/hippo-jcr-over-webdav](https://github.com/onehippo-forge/hippo-jcr-over-webdav) | [onehippo-forge.github.io/hippo-jcr-over-webdav/](https://onehippo-forge.github.io/hippo-jcr-over-webdav/) 
 | Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
 | Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | [onehippo-forge.github.io/hipshoot/](https://onehippo-forge.github.io/hipshoot/)
 | HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
 | HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
 | HST PDF Renderer | [/onehippo-forge/hst-pdf-renderer](https://github.com/onehippo-forge/hst-pdf-renderer) | TBD
 | HST Salesforce Integration | [/onehippo-forge/hst-salesforce-integration](https://github.com/onehippo-forge/hst-salesforce-integration) | TBD
-| HST Spring Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [onehippo-forge.github.io/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
+| HST Spring Framework Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [onehippo-forge.github.io/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
 | HST Spring Security Support | [/onehippo-forge/hst-spring-security](https://github.com/onehippo-forge/hst-spring-security) | [onehippo-forge.github.io/hst-spring-security](https://onehippo-forge.github.io/hst-spring-security/)
 | IFrame Perspective | [/onehippo-forge/iframe-perspective](https://github.com/onehippo-forge/iframe-perspective) | [onehippo-forge.github.io/iframe-perspective/](https://onehippo-forge.github.io/iframe-perspective/)
 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | TBD
@@ -35,6 +36,5 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | TBD
 | Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [github.io/properties](https://onehippo-forge.github.io/properties/)
 | Rating Field Plugin | [/onehippo-forge/rating-field](https://github.com/onehippo-forge/rating-field) | TBD
-| Hippo Repository JCR over WebDAV Support | [/onehippo-forge/hippo-jcr-over-webdav](https://github.com/onehippo-forge/hippo-jcr-over-webdav) | [onehippo-forge.github.io/hippo-jcr-over-webdav/](https://onehippo-forge.github.io/hippo-jcr-over-webdav/) 
 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | [onehippo-forge.github.io/reset-password](https://onehippo-forge.github.io/reset-password)
 | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
