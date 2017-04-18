@@ -11,14 +11,14 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Content Export / Import | [/onehippo-forge/content-export-import](https://github.com/onehippo-forge/content-export-import) | [github.io/content-export-import](https://onehippo-forge.github.io/content-export-import)
 | Channel Manager Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [github.io/page-management-support](https://onehippo-forge.github.io/page-management-support)
 | CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | TBD
-| Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | TBD
+| Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | [onehippo-forge.github.io/document-commenting/](https://onehippo-forge.github.io/document-commenting/) 
 | Document Translation Picker | [/onehippo-forge/document-translation-picker](https://github.com/onehippo-forge/document-translation-picker) | TBD
 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | TBD
 | Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [github.io/embargo](https://onehippo-forge.github.io/embargo/)
 | External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | [github.io/external-document-picker](https://onehippo-forge.github.io/external-document-picker)
 | External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | [github.io/external-resources](https://onehippo-forge.github.io/external-resources)
 | Feeds | [/onehippo-forge/feeds](https://github.com/onehippo-forge/feeds) | [onehippo-forge.github.io/feeds](https://onehippo-forge.github.io/feeds)
-| Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | TBD
+| Folder Context Menus | [/onehippo-forge/folder-context-menus](https://github.com/onehippo-forge/folder-context-menus) | [onehippo-forge.github.io/folder-context-menus/](https://onehippo-forge.github.io/folder-context-menus/) 
 | Gallery Magick Image Processing | [/onehippo-forge/gallery-magick](https://github.com/onehippo-forge/gallery-magick) | [github.io/gallery-magick](https://onehippo-forge.github.io/gallery-magick)
 | Hippo Forge Maven Skin | [/onehippo-forge/forge-maven-skin](https://github.com/onehippo-forge/forge-maven-skin) | [github.io/forge-maven-skin](https://onehippo-forge.github.io/forge-maven-skin)
 | Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
