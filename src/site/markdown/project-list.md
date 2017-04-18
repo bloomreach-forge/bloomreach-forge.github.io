@@ -25,7 +25,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Hippo Utilities | [/onehippo-forge/hippo-utilities](https://github.com/onehippo-forge/hippo-utilities) | [github.io/hippo-utilities](https://onehippo-forge.github.io/hippo-utilities)
 | Hipshoot | [/onehippo-forge/hipshoot](https://github.com/onehippo-forge/hipshoot) | [onehippo-forge.github.io/hipshoot/](https://onehippo-forge.github.io/hipshoot/)
 | HST Apache Shiro Integration Support | [/onehippo-forge/hst-shiro](https://github.com/onehippo-forge/hst-shiro) | TBD
-| HST Content Version Utility | [/onehippo-forge/hst-content-version-utility](https://github.com/onehippo-forge/hst-content-version-utility) | TBD
+| HST Content Version Utils | [/onehippo-forge/hst-content-version-utility](github.com/onehippo-forge/hst-content-version-utils) | [https://onehippo-forge.github.io/hst-content-version-utils/](https://onehippo-forge.github.io/hst-content-version-utils/) 
 | HST PDF Renderer | [/onehippo-forge/hst-pdf-renderer](https://github.com/onehippo-forge/hst-pdf-renderer) | TBD
 | HST Salesforce Integration | [/onehippo-forge/hst-salesforce-integration](https://github.com/onehippo-forge/hst-salesforce-integration) | TBD
 | HST Spring Framework Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [onehippo-forge.github.io/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
