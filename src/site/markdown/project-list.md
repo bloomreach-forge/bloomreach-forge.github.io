@@ -10,7 +10,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | Breadcrumb Plugin | [/onehippo-forge/breadcrumb](https://github.com/onehippo-forge/breadcrumb) | [github.io/breadcrumb](https://onehippo-forge.github.io/breadcrumb)
 | Content Export / Import | [/onehippo-forge/content-export-import](https://github.com/onehippo-forge/content-export-import) | [github.io/content-export-import](https://onehippo-forge.github.io/content-export-import)
 | Channel Manager Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [github.io/page-management-support](https://onehippo-forge.github.io/page-management-support)
-| CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | TBD
+| CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | [onehippo-forge.github.io/cmis-replication/](https://onehippo-forge.github.io/cmis-replication/) 
 | Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | [onehippo-forge.github.io/document-commenting/](https://onehippo-forge.github.io/document-commenting/) 
 | Document Translation Picker | [/onehippo-forge/document-translation-picker](https://github.com/onehippo-forge/document-translation-picker) | TBD
 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | TBD
