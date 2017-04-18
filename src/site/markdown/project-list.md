@@ -35,6 +35,6 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | TBD
 | Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [github.io/properties](https://onehippo-forge.github.io/properties/)
 | Rating Field Plugin | [/onehippo-forge/rating-field](https://github.com/onehippo-forge/rating-field) | TBD
-| Repository WebDAV Support | [/onehippo-forge/webdav-support](https://github.com/onehippo-forge/webdav-support) | TBD
+| Hippo Repository JCR over WebDAV Support | [/onehippo-forge/hippo-jcr-over-webdav](https://github.com/onehippo-forge/hippo-jcr-over-webdav) | [onehippo-forge.github.io/hippo-jcr-over-webdav/](https://onehippo-forge.github.io/hippo-jcr-over-webdav/) 
 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | [onehippo-forge.github.io/reset-password](https://onehippo-forge.github.io/reset-password)
 | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [github.io/settings-management](https://onehippo-forge.github.io/settings-management/)
