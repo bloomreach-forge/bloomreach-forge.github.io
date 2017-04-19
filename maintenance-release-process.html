@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                     <meta name="Date-Revision-yyyymmdd" content="20170321"/>
                 <meta http-equiv="Content-Language" content="en"/>
-        <title>Hippo Forge Documentation - Quality Checklist</title>
+        <title>Hippo Forge Documentation - Maintenance Release Process Using git-flow</title>
     <link rel="stylesheet" href="./css/forge-maven-skin-syntaxhighlighter-1.04.00.min.css"/>
     <link rel="stylesheet" href="./css/forge-maven-skin-1.04.00.min.css"/>
     <link rel="stylesheet" href="./css/site.css"/>
@@ -92,11 +92,13 @@
                 Development</a>
                     </li>
                                
-        <li class="active">
+        <li>
     
-                        <a href="#"><i class="none"></i>Quality Checklist</a>
-                </li>
-                                                                                                                                                                                                   
+                                                <a href="checklist.html" title="Quality Checklist">
+                    <i class="none"></i>
+                Quality Checklist</a>
+                    </li>
+                                                                                                                                                                                                                       
         <li>
     
                                                 <a href="release-process.html" title="Release Process">
@@ -111,12 +113,10 @@
                 Standard Release Process</a>
                     </li>
                                                                             
-        <li>
+        <li class="active">
     
-                                                <a href="maintenance-release-process.html" title="Maintenance Release Process">
-                    <i class="none"></i>
-                Maintenance Release Process</a>
-                    </li>
+                        <a href="#"><i class="none"></i>Maintenance Release Process</a>
+                </li>
                                               </ul>
             </li>
                         </ul>
@@ -139,35 +139,9 @@
         <div id="bodyColumn"  class="span9" >
                                 
             <div class="section">
-<h2>Quality Checklist<a name="Quality_Checklist"></a></h2>
-<p>This page contains a quality checklist for community maintained projects hosted at the Hippo Forge. If your project meets all items in this list, it rocks!</p>
-<div class="section">
-<h3>1. Clear project name<a name="a1._Clear_project_name"></a></h3>
-<p>Give your project a name that makes it unique and that explains what it does. If possible, make the name stand out of other projects that do the same thing but in a different way.</p></div>
-<div class="section">
-<h3>2. Documentation available<a name="a2._Documentation_available"></a></h3>
-<p>Without documentation the plugin doesn&#x2019;t exists! And screenshots rule!</p>
-<p>We use <a class="externalLink" href="https://pages.github.com/">GitHub Pages</a> to publish documents from the <tt>master/docs</tt> folder to a documentation site at <tt>https://onehippo-forge.github.io/[project-name]/</tt></p></div>
-<div class="section">
-<h3>3. Artifact group and package<a name="a3._Artifact_group_and_package"></a></h3>
-<p>To distinct from other plugins, use an artifact group id and Java package that both start with <tt>org.onehippo.forge.[project-name]</tt>. In the project name only use lowercase letters [a-z].</p></div>
-<div class="section">
-<h3>4. Use project pom as parent<a name="a4._Use_project_pom_as_parent"></a></h3>
-<p>Use the project pom <tt>org.onehippo.cms7:hippo-cms7-project</tt> as a parent to the plugin project. It provides a number of standard pom sections and has some basic dependencies defined that are common to all Hippo projects. </p>
-<p>The release pom <tt>org.onehippo.cms7:hippo-cms7-release</tt> is extended from that and defines too much (like standard plugin versions, Cargo configuration) to be used as parent pom. It is meant for implementation (end) projects. </p></div>
-<div class="section">
-<h3>5. Demo project available<a name="a5._Demo_project_available"></a></h3>
-<p>Provide an example demo project within the code as Maven submodule, to demonstrate the functionality.</p></div>
-<div class="section">
-<h3>6. Delivery tier best practices<a name="a6._Delivery_tier_best_practices"></a></h3>
-<p>To the plugin&#x2019;s delivery tier (HST) code, apply our <a class="externalLink" href="https://www.onehippo.org/library/setup/best-practices.html">best practices</a>.</p>
-<p>Some key point are: use limits on queries, have translatable labels, make smart usage of logging. </p></div>
-<div class="section">
-<h3>7. Hide any namespace<a name="a7._Hide_any_namespace"></a></h3>
-<p>If the plugin defines a namespace and that namespace is not intended for editing in the CMS, make sure to hide it. See <a class="externalLink" href="https://www.onehippo.org/library/concepts/plugins/hide-a-namespace-in-the-cms-editor.html">Hide a Namespace in the CMS editor</a> for how this can be achieved.</p></div>
-<div class="section">
-<h3>8. Clustering<a name="a8._Clustering"></a></h3>
-<p>Make sure the plugin runs within a clustered environment, preferably without additional configuration.</p></div></div>
+<h2>Maintenance Release Process Using git-flow<a name="Maintenance_Release_Process_Using_git-flow"></a></h2>
+<p>Coming soon&#x2026;</p>
+<p>TODO: Explain steps using <tt>git-flow</tt> support commands.</p></div>
             </div>
         </div>
     </div>
