@@ -13,7 +13,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | 6 | CMIS Replication Module | [/onehippo-forge/cmis-replication](https://github.com/onehippo-forge/cmis-replication) | [/cmis-replication/](https://onehippo-forge.github.io/cmis-replication/) 
 | 7 | Document Commenting Plugin | [/onehippo-forge/document-commenting](https://github.com/onehippo-forge/document-commenting) | [/document-commenting/](https://onehippo-forge.github.io/document-commenting/) 
 | 8 | Document Translation Picker | [/onehippo-forge/document-translation-picker](https://github.com/onehippo-forge/document-translation-picker) | [/document-translation-picker/](https://onehippo-forge.github.io/document-translation-picker/)
-| 9 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | [/domain-creation/](https://onehippo-forge.github.io/domain-creation/)
+| 9 | Domain Creation | [/onehippo-forge/domain-creation](https://github.com/onehippo-forge/domain-creation) | [/README.md](https://github.com/onehippo-forge/domain-creation/blob/master/README.md)
 | 10 | Embargo Plugin | [/onehippo-forge/embargo](https://github.com/onehippo-forge/embargo) | [/embargo/](https://onehippo-forge.github.io/embargo/)
 | 11 | External Document Picker | [/onehippo-forge/external-document-picker](https://github.com/onehippo-forge/external-document-picker) | [/external-document-picker](https://onehippo-forge.github.io/external-document-picker/)
 | 12 | External Resources  | [/onehippo-forge/external-resources](https://github.com/onehippo-forge/external-resources) | [/external-resources](https://onehippo-forge.github.io/external-resources/)
