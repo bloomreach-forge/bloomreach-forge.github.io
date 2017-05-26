@@ -9,7 +9,7 @@
 ## Welcome!
 
 Welcome to the **Hippo Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of Hippo 
-CMS or Hippo DX.
+CMS or BloomReach DXP.
 
 _Community plugins are maintained by the Hippo community and by implementation projects._ <br/>
 For instance, it is common for a plugin upgrade to be triggered by a project upgrade.
@@ -18,12 +18,8 @@ For instance, it is common for a plugin upgrade to be triggered by a project upg
 See [the project list page](project-list.html) for an overview of all projects at hosted at [github.com/onehippo-forge]
 (https://github.com/onehippo-forge).
 
-Initially, 33 selected projects were migrated in March 2017 from the discontinued Hippo SVN Forge at [forge.onehippo.org]
-(https://forge.onehippo.org).
-
-**URL Rewriter exception**  
-The URL Rewriter plugin has been so successful that it has migrated to [Hippo GitLab](https://code.onehippo.org/cms-community/hippo-plugin-urlrewriter)
-instead of GitHub.
+Initially, in March 2017, 33 selected projects were migrated to GitHub from the discontinued Hippo SVN Forge 
+at [forge.onehippo.org] (https://forge.onehippo.org).
 
 ### Development
 See [the development page](development.html) for some standards regarding developing a plugin project. There is also a
