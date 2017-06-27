@@ -30,7 +30,7 @@ Here's a list of projects on [the Hippo Forge on Github](https://github.com/oneh
 | 23 | HST Spring Framework Support | [/onehippo-forge/hst-spring-support](https://github.com/onehippo-forge/hst-spring-support) | [/hst-spring-support/](https://onehippo-forge.github.io/hst-spring-support/)
 | 24 | HST Spring Security Support | [/onehippo-forge/hst-spring-security](https://github.com/onehippo-forge/hst-spring-security) | [/hst-spring-security/](https://onehippo-forge.github.io/hst-spring-security/)
 | 25 | IFrame Perspective | [/onehippo-forge/iframe-perspective](https://github.com/onehippo-forge/iframe-perspective) | [/iframe-perspective/](https://onehippo-forge.github.io/iframe-perspective/)
-| 26 | IP Filter Plugin | [/onehippo-forge/ip-filter](https://github.com/onehippo-forge/ip-filter) | [/iframe-perspective/](https://onehippo-forge.github.io/ip-filter/)
+| 26 | IP Filter Plugin | [/onehippo-forge/ip-filter](https://github.com/onehippo-forge/ip-filter) | [/ip-filter/](https://onehippo-forge.github.io/ip-filter/)
 | 27 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | [/jcr-runner/](https://onehippo-forge.github.io/jcr-runner/)
 | 28 | JCR POJO Binding | [/onehippo-forge/jcr-pojo-binding](https://github.com/onehippo-forge/jcr-pojo-binding) | [/jcr-pojo-binding/](https://onehippo-forge.github.io/jcr-pojo-binding/)
 | 29 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | [/oai-pmh-provider/](https://onehippo-forge.github.io/oai-pmh-provider/)
