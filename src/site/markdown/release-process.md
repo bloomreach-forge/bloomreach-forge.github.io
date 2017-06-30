@@ -7,6 +7,7 @@ to understand and follow and also widely accepted.
 The recommended instructions are based on ```git-flow```. Please follow available references of ```git-flow``` like the following:
 
 - http://danielkummer.github.io/git-flow-cheatsheet/
+- https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow-examples/
 - http://nvie.com/posts/a-successful-git-branching-model/
 
 Basically, there are two different instructions. One is for the standard release process based on the latest
