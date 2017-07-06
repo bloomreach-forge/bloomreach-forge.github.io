@@ -17,6 +17,6 @@ development working branch, and the other is for the maintenance release process
 
 Please see [Standard Release Process Using git-flow](standard-release-process.html).
 
-### Maintenance Release Process Using git-flow
+### Support Release Process Using git-flow
 
-Please see [Maintenance Release Process Using git-flow](maintenance-release-process.html).
+Please see [Support Release Process Using git](support-release-process.html).

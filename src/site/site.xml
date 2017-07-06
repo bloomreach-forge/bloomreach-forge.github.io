@@ -17,7 +17,7 @@
       <item name="Quality Checklist" href="checklist.html" />
       <item name="Release Process" href="release-process.html">
         <item name="Standard Release Process" href="standard-release-process.html" />
-        <item name="Maintenance Release Process" href="maintenance-release-process.html" />
+        <item name="Support Release Process" href="support-release-process.html" />
       </item>
     </menu>
   </body>
