@@ -100,72 +100,73 @@
 <div class="section">
 <h3><a name="Create_a_new_release_branch_from_the_support_branch_and_bump_up_versions"></a>Create a new release branch from the support branch and bump up versions</h3>
 <p>Suppose you have a support branch for an older major version, <tt>support/1.x</tt>. And, now you want to cut a release (e.g, v1.1.2) from it.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout support/1.x -b release/1.1.2
-    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.1.2&quot;
-    git commit -a -m &quot;bump up version for release.&quot;
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout support/1.x -b release/1.1.2 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.1.2&#x201d; 
+ cd demo 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.1.2&#x201d; 
+ cd .. 
+ git commit -a -m &#x201c;bump up version for release.&#x201d; 
+ </pre></div> </div>
 <div class="section">
 <h3><a name="aOptional_Publish_the_release_branch"></a>(Optional) Publish the release branch</h3>
 <p>You can skip this step if you are releasing it alone. But if you want your team to do final hardening in the shared release branch, you should do this step.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git push -u origin release/1.1.2
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git push -u origin release/1.1.2 </pre></div> </div>
 <div class="section">
 <h3><a name="Tag_and_publish_the_Tag"></a>Tag and publish the Tag</h3>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git tag -a 1.1.2 -m &quot;Tagging 1.1.2&quot;
-    git tag -l
-    git push origin 1.1.2
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git tag -a 1.1.2 -m &#x201c;Tagging 1.1.2&#x201d; 
+ git tag -l 
+ git push origin 1.1.2 
+ </pre></div> </div>
 <div class="section">
 <h3><a name="Merge_the_release_branch_to_the_base_branch"></a>Merge the release branch to the base branch</h3>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout support/1.x
-    git merge release/1.1.2
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout support/1.x 
+ git merge release/1.1.2 
+ </pre></div> </div>
 <div class="section">
 <h3><a name="Bump_up_the_version_in_the_base_branch"></a>Bump up the version in the base branch</h3>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout support/1.x
-    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.1.3-SNAPSHOT&quot;
-    git commit -a -m &quot;bump up version for next dev cycle.&quot;
-    git push origin support/1.x
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout support/1.x 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.1.3-SNAPSHOT&#x201d; 
+ cd demo 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.1.3-SNAPSHOT&#x201d; 
+ cd .. 
+ git commit -a -m &#x201c;bump up version for next dev cycle.&#x201d; 
+ git push origin support/1.x 
+ </pre></div> </div>
 <div class="section">
 <h3><a name="Remove_release_branch"></a>Remove release branch</h3>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git branch -D release/1.1.2
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git branch -D release/1.1.2 </pre></div> 
 <p>If you&#x2019;ve published the release branch in the previous optional step, you may now remove the remote (temporary) release branch:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git push origin :release/1.1.2
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git push origin :release/1.1.2 </pre></div> </div>
 <div class="section">
 <h3><a name="aOptional_Deploy_the_release_tag_to_Maven_Repository"></a>(Optional) Deploy the release tag to Maven Repository</h3>
 <p>Check out the release tag like the following example. You may name the local branch to anything else.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout tags/1.1.2 -b tag-1.1.2
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout tags/1.1.2 -b tag-1.1.2 </pre></div> 
 <p>Now, deploy it to Hippo Forge Maven repository from the tag branch:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    mvn deploy
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> mvn deploy </pre></div> 
 <p>You may remove the local tag branch.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout support/1.x
-    git branch -D tag-1.1.2
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout support/1.x 
+ git branch -D tag-1.1.2 
+ </pre></div> 
 <p>Congratulations! Great work!</p></div></div>
     </div>
     </div>

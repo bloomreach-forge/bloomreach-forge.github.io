@@ -108,131 +108,117 @@
 <div class="section">
 <h3><a name="Start_a_new_release"></a>Start a new release</h3>
 <p>In this instruction, let&#x2019;s suppose we want to cut a release of version 1.2.3 from the <tt>develop</tt> branch. You need to start the release process with the following command:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release start RELEASE [BASE]
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release start RELEASE [BASE] </pre></div> 
 <p>So, for example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release start 1.2.3 develop
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release start 1.2.3 develop </pre></div> 
 <p>Now, you&#x2019;re automatically moved to a new branch already, <tt>release/1.2.3</tt>.</p></div>
 <div class="section">
 <h3><a name="Set_release_versions"></a>Set release versions</h3>
 <p>It&#x2019;s time to set a proper release version in the pom.xml files. For example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.2.3&quot;
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.2.3&#x201d; </pre></div> 
 <p>Also, if you have <tt>demo</tt> folder underneath, set the release version in the demo folder as well:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    cd demo
-    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.2.3&quot;
-    cd ..
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> cd demo 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.2.3&#x201d; 
+ cd .. 
+ </pre></div> 
 <p><b>NOTE</b>: <tt>demo</tt> is a child folder managed in the same git repository, but not a maven subproject.  That&#x2019;s why you set the maven versions separately.</p>
 <p>Let&#x2019;s commit the version changes. For example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git commit -a -m &quot;Setting release version to 1.2.3.&quot;
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git commit -a -m &#x201c;Setting release version to 1.2.3.&#x201d; </pre></div> </div>
 <div class="section">
 <h3><a name="aOptional_Publish_the_release_branch"></a>(Optional) Publish the release branch</h3>
 <p>You can skip this step if you are releasing it alone. But if you want your team to do final hardening in the shared release branch, you should do this step.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release publish RELEASE
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release publish RELEASE </pre></div> 
 <p>For example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release publish 1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release publish 1.2.3 </pre></div> 
 <p>Now, your release branch was published. You can inform the team of this new release branch for final hardening work.</p></div>
 <div class="section">
 <h3><a name="Finish_the_release"></a>Finish the release</h3>
 <p>Finally, let&#x2019;s finish the release. This step includes making a tag, merging changes to master and develop branches and removing the release branch.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release finish RELEASE
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release finish RELEASE </pre></div> 
 <p>For example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git flow release finish 1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git flow release finish 1.2.3 </pre></div> 
 <p>This finishing step removes the <tt>release/1.2.3</tt> branch <i>locally</i>, and moves to <tt>develop</tt> branch.</p></div>
 <div class="section">
 <h3><a name="Push_master_branch_and_bump_up_version_in_develop_branch_and_push_it."></a>Push <tt>master</tt> branch and bump up version in <tt>develop</tt> branch and push it.</h3>
 <p>In the finishing step above, every change was already merged to <tt>master</tt> and <tt>develop</tt> branch from the release branch. So, don&#x2019;t forge to push local commits to the remote.</p>
 <p>For example, let&#x2019;s push the commits in <tt>master</tt> branch to the remote.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout master
-    git push origin master
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout master 
+ git push origin master 
+ </pre></div> 
 <p>Before pushing the commits in <tt>develop</tt> branch, let&#x2019;s bump up the version for next development cycle with <tt>-SNAPSHOT</tt> in <tt>develop</tt> branch.</p>
 <p>For example,</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout develop
-    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.2.4-SNAPSHOT&quot;
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout develop 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.2.4-SNAPSHOT&#x201d; 
+ </pre></div> 
 <p>Again, don&#x2019;t forget bumping up versions in the demo folder if it exists.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    cd demo
-    mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&quot;1.2.4-SNAPSHOT&quot;
-
-    cd ..
-    git commit -a -m &quot;bump up version for next dev cycle.&quot;
-
-    git push origin develop
-</pre></div></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> cd demo 
+ mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion=&#x201c;1.2.4-SNAPSHOT&#x201d; 
+  
+ cd .. 
+ git commit -a -m &#x201c;bump up version for next dev cycle.&#x201d; 
+  
+ git push origin develop 
+ </pre></div> </div>
 <div class="section">
 <h3><a name="Push_the_newly_created_tag."></a>Push the newly created tag.</h3>
 <p>In the previous finishing step, a tag was made for the release version. e.g, <tt>1.2.3</tt></p>
 <p>You can check all the tags by the following command:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git tag -l
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git tag -l </pre></div> 
 <p><b>Tip</b>: You can also run the following command to fetch all the tags pushed by someone else in the remote:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git fetch --all --tags --prune
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git fetch &#x2013;all &#x2013;tags &#x2013;prune </pre></div> 
 <p>Now, let&#x2019;s push the newly created tag generated in the finishing step:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git push origin 1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git push origin 1.2.3 </pre></div> 
 <p>If you&#x2019;ve published the release branch in the previous optional step, you may now remove the remote (temporary) release branch:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git push origin :release/1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git push origin :release/1.2.3 </pre></div> 
 <p>Now, your normal release process is done. Your new release was made as a tag and published.</p></div>
 <div class="section">
 <h3><a name="aOptional_Deploy_the_release_tag_to_Hippo_Forge_Maven_Repository"></a>(Optional) Deploy the release tag to Hippo Forge Maven Repository</h3>
 <p>Check out the release tag like the following example. You may name the local branch to anything else.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout tags/1.2.3 -b tag-1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout tags/1.2.3 -b tag-1.2.3 </pre></div> 
 <p>Now, deploy it to Hippo Forge Maven repository from the tag branch:</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    mvn deploy
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> mvn deploy </pre></div> 
 <p>You may remove the local tag branch.</p>
-
-<div class="source">
-<div class="source"><pre class="prettyprint">    git checkout develop
-    git branch -D tag-1.2.3
-</pre></div></div>
+<p> </p>
+<div>
+<pre class="brush: plain"> git checkout develop 
+ git branch -D tag-1.2.3 
+ </pre></div> 
 <p>Congratulations! Great work!</p></div></div>
     </div>
     </div>
