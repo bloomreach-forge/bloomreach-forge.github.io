@@ -25,19 +25,11 @@ to ```develop```.
 In this instruction, let's suppose we want to cut a release of version 1.2.3 from the ```develop``` branch.
 You need to start the release process with the following command:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release start RELEASE [BASE]
-</pre>
-</MTMarkdownOptions>
+        git flow release start RELEASE [BASE]
 
 So, for example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release start 1.2.3 develop
-</pre>
-</MTMarkdownOptions>
+        git flow release start 1.2.3 develop
 
 Now, you're automatically moved to a new branch already, ```release/1.2.3```.
 
@@ -45,51 +37,31 @@ Now, you're automatically moved to a new branch already, ```release/1.2.3```.
 
 It's time to set a proper release version in the pom.xml files. For example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.3"
-</pre>
-</MTMarkdownOptions>
+        mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.3"
 
 Also, if you have ```demo``` folder underneath, set the release version in the demo folder as well:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-cd demo &#13;
-mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.3" &#13;
-cd .. &#13;
-</pre>
-</MTMarkdownOptions>
+        cd demo
+        mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.3"
+        cd ..
 
 **NOTE**: ```demo``` is a child folder managed in the same git repository, but not a maven subproject.
             That's why you set the maven versions separately.
 
 Let's commit the version changes. For example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git commit -a -m "Setting release version to 1.2.3."
-</pre>
-</MTMarkdownOptions>
+        git commit -a -m "Setting release version to 1.2.3."
 
 ### (Optional) Publish the release branch
 
 You can skip this step if you are releasing it alone.
 But if you want your team to do final hardening in the shared release branch, you should do this step.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release publish RELEASE
-</pre>
-</MTMarkdownOptions>
+        git flow release publish RELEASE
 
 For example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release publish 1.2.3
-</pre>
-</MTMarkdownOptions>
+        git flow release publish 1.2.3
 
 Now, your release branch was published. You can inform the team of this new release branch for final hardening work.
 
@@ -98,19 +70,11 @@ Now, your release branch was published. You can inform the team of this new rele
 Finally, let's finish the release. This step includes making a tag, merging changes to master and develop branches
 and removing the release branch.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release finish RELEASE
-</pre>
-</MTMarkdownOptions>
+        git flow release finish RELEASE
 
 For example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git flow release finish 1.2.3
-</pre>
-</MTMarkdownOptions>
+        git flow release finish 1.2.3
 
 This finishing step removes the ```release/1.2.3``` branch *locally*, and moves to ```develop``` branch.
 
@@ -122,38 +86,26 @@ So, don't forge to push local commits to the remote.
 
 For example, let's push the commits in ```master``` branch to the remote.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git checkout master &#13;
-git push origin master &#13;
-</pre>
-</MTMarkdownOptions>
+        git checkout master
+        git push origin master
 
 Before pushing the commits in ```develop``` branch, let's bump up the version for next development cycle with ```-SNAPSHOT```
 in ```develop``` branch.
 
 For example,
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git checkout develop &#13;
-mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.4-SNAPSHOT" &#13;
-</pre>
-</MTMarkdownOptions>
+        git checkout develop
+        mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.4-SNAPSHOT"
 
 Again, don't forget bumping up versions in the demo folder if it exists.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-cd demo &#13;
-mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.4-SNAPSHOT" &#13;
- &#13;
-cd .. &#13;
-git commit -a -m "bump up version for next dev cycle." &#13;
- &#13;
-git push origin develop &#13;
-</pre>
-</MTMarkdownOptions>
+        cd demo
+        mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.4-SNAPSHOT"
+
+        cd ..
+        git commit -a -m "bump up version for next dev cycle."
+
+        git push origin develop
 
 ### Push the newly created tag.
 
@@ -161,35 +113,19 @@ In the previous finishing step, a tag was made for the release version. e.g, ```
 
 You can check all the tags by the following command:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git tag -l
-</pre>
-</MTMarkdownOptions>
+        git tag -l
 
 **Tip**: You can also run the following command to fetch all the tags pushed by someone else in the remote:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git fetch --all --tags --prune
-</pre>
-</MTMarkdownOptions>
+        git fetch --all --tags --prune
 
 Now, let's push the newly created tag generated in the finishing step:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git push origin 1.2.3
-</pre>
-</MTMarkdownOptions>
+        git push origin 1.2.3
 
 If you've published the release branch in the previous optional step, you may now remove the remote (temporary) release branch:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git push origin :release/1.2.3
-</pre>
-</MTMarkdownOptions>
+        git push origin :release/1.2.3
 
 Now, your normal release process is done. Your new release was made as a tag and published.
 
@@ -197,27 +133,15 @@ Now, your normal release process is done. Your new release was made as a tag and
 
 Check out the release tag like the following example. You may name the local branch to anything else.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git checkout tags/1.2.3 -b tag-1.2.3
-</pre>
-</MTMarkdownOptions>
+        git checkout tags/1.2.3 -b tag-1.2.3
 
 Now, deploy it to Hippo Forge Maven repository from the tag branch:
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-mvn deploy
-</pre>
-</MTMarkdownOptions>
+        mvn deploy
 
 You may remove the local tag branch.
 
-<MTMarkdownOptions output='raw'>
-<pre class="brush: plain">
-git checkout develop &#13;
-git branch -D tag-1.2.3 &#13;
-</pre>
-</MTMarkdownOptions>
+        git checkout develop
+        git branch -D tag-1.2.3
 
 Congratulations! Great work!
