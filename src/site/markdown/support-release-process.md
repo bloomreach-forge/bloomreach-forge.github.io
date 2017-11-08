@@ -25,7 +25,7 @@ And, now you want to cut a release (e.g, v1.1.2) from it.
         cd demo
         mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.1.2"
         cd ..
-        git commit -a -m "bump up version for release."
+        git commit -a -m "<ISSUE_ID>: bump up version for release."
 
 ### (Optional) Publish the release branch
 
@@ -52,7 +52,7 @@ But if you want your team to do final hardening in the shared release branch, yo
         cd demo
         mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.1.3-SNAPSHOT"
         cd ..
-        git commit -a -m "bump up version for next dev cycle."
+        git commit -a -m "<ISSUE_ID>: bump up version for next dev cycle."
         git push origin support/1.x
 
 ### Remove release branch

@@ -50,7 +50,7 @@ Also, if you have ```demo``` folder underneath, set the release version in the d
 
 Let's commit the version changes. For example,
 
-        git commit -a -m "Setting release version to 1.2.3."
+        git commit -a -m "<ISSUE_ID>: Setting release version to 1.2.3."
 
 ### (Optional) Publish the release branch
 
@@ -103,7 +103,7 @@ Again, don't forget bumping up versions in the demo folder if it exists.
         mvn org.codehaus.mojo:versions-maven-plugin:2.1:set -DgenerateBackupPoms=false -DnewVersion="1.2.4-SNAPSHOT"
 
         cd ..
-        git commit -a -m "bump up version for next dev cycle."
+        git commit -a -m "<ISSUE_ID>: bump up version for next dev cycle."
 
         git push origin develop
 
