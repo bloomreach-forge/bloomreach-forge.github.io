@@ -36,7 +36,7 @@ But if you want your team to do final hardening in the shared release branch, yo
 
 ### Tag and publish the Tag
 
-        git tag -a 1.1.2 -m "Tagging 1.1.2"
+        git tag -a 1.1.2 -m "<ISSUE_ID>: Tagging 1.1.2"
         git tag -l
         git push origin 1.1.2
 
