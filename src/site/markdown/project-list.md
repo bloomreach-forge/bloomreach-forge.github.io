@@ -33,11 +33,13 @@ Here's a list of active Hippo Forge projects on [the Hippo Forge on Github](http
 | 26 | JCR Runner | [/onehippo-forge/jcr-runner](https://github.com/onehippo-forge/jcr-runner) | [/jcr-runner/](https://onehippo-forge.github.io/jcr-runner/)
 | 27 | JCR POJO Binding | [/onehippo-forge/jcr-pojo-binding](https://github.com/onehippo-forge/jcr-pojo-binding) | [/jcr-pojo-binding/](https://onehippo-forge.github.io/jcr-pojo-binding/)
 | 28 | OAI-PMH Provider | [/onehippo-forge/oai-pmh-provider](https://github.com/onehippo-forge/oai-pmh-provider) | [/oai-pmh-provider/](https://onehippo-forge.github.io/oai-pmh-provider/)
-| 29 | Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [/page-management-support/](https://onehippo-forge.github.io/page-management-support/)
-| 30 | Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [/properties/](https://onehippo-forge.github.io/properties/)
-| 31 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | [/reset-password/](https://onehippo-forge.github.io/reset-password/)
-| 32 | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [/settings-management/](https://onehippo-forge.github.io/settings-management/)
-| 33 | URL Rewriter | [/onehippo-forge/url-rewriter](https://github.com/onehippo-forge/url-rewriter) | [/url-rewriter/](https://onehippo-forge.github.io/url-rewriter/)
+| 29 | Page Flow | [/onehippo-forge/page-flow](https://github.com/onehippo-forge/page-flow) | [/page-flow/](https://onehippo-forge.github.io/page-flow/)
+| 30 | Page Management Support | [/onehippo-forge/page-management-support](https://github.com/onehippo-forge/page-management-support) | [/page-management-support/](https://onehippo-forge.github.io/page-management-support/)
+| 31 | Properties Component | [/onehippo-forge/properties](https://github.com/onehippo-forge/properties) | [/properties/](https://onehippo-forge.github.io/properties/)
+| 32 | Reset Password | [/onehippo-forge/reset-password](https://github.com/onehippo-forge/reset-password) | [/reset-password/](https://onehippo-forge.github.io/reset-password/)
+| 33 | Settings Management | [/onehippo-forge/settings-management](https://github.com/onehippo-forge/settings-management) | [/settings-management/](https://onehippo-forge.github.io/settings-management/)
+| 34 | Templating Support | [/onehippo-forge/templating-support](https://github.com/onehippo-forge/templating-support) | [/templating-support/](https://onehippo-forge.github.io/templating-support/)
+| 35 | URL Rewriter | [/onehippo-forge/url-rewriter](https://github.com/onehippo-forge/url-rewriter) | [/url-rewriter/](https://onehippo-forge.github.io/url-rewriter/)
 
 ## Hippo Forge Dormant Projects
 
