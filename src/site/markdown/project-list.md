@@ -33,8 +33,7 @@ The following projects are maintained and available for Hippo CMS 12.
 |26|[Settings Management](https://github.com/onehippo-forge/settings-management)<br/>Edit settings from the CMS instead of console.|[Documentation](https://onehippo-forge.github.io/settings-management/)|
 |27|[Servlet Filter Decorators](https://github.com/onehippo-forge/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Documentation](https://onehippo-forge.github.io/servlet-filter-decorators/)|
 |28|[Templating Support](https://github.com/onehippo-forge/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Documentation](https://onehippo-forge.github.io/templating-support/)|
-|29|[Web Archiving](https://github.com/onehippo-forge/web-archiving)<br/>Integrate with Web Archiving agencies.|[Documentation](https://onehippo-forge.github.io/web-archiving/)|
-|30|[WebDAV Support](https://github.com/onehippo-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://onehippo-forge.github.io/hippo-jcr-over-webdav/)|
+|29|[WebDAV Support](https://github.com/onehippo-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://onehippo-forge.github.io/hippo-jcr-over-webdav/)|
 
 ##### Projects for Hippo CMS 11
 The following projects are available for Hippo CMS 11. Upgrade efforts are very welcome, see [code contributions](development.html#Code_Contributions).
@@ -44,6 +43,7 @@ The following projects are available for Hippo CMS 11. Upgrade efforts are very 
 |2|[Gallery Background Processor](https://github.com/onehippo-forge/gallery-background-processor)<br/>Have image variants created in the background.|[Documentation](https://onehippo-forge.github.io/gallery-background-processor/)|
 |3|[Reset Password](https://github.com/onehippo-forge/reset-password)<br/>Have your CMS password reset.|[Documentation](https://onehippo-forge.github.io/reset-password/)|
 |4|[URL Rewriter](https://github.com/onehippo-forge/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Documentation](https://onehippo-forge.github.io/url-rewriter/)|
+|5|[Web Archiving](https://github.com/onehippo-forge/web-archiving)<br/>Integrate with Web Archiving agencies.|[Documentation](https://onehippo-forge.github.io/web-archiving/)|
 
 ##### Projects for Hippo CMS 10
 The following projects are available for Hippo CMS 10. Upgrade efforts are very welcome, see [code contributions](development.html#Code_Contributions).
