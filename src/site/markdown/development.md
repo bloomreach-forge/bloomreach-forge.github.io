@@ -29,7 +29,7 @@ occurs, an external developer has push rights on the repository.
 We like to adhere to the the well-established [Git Flow by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/).
 
 In short, the 'master' branch is always the same as the latest release, whilst the 'develop' branch is used as base for 
-features and bug fixes. 
+features and bug fixes.  See [using git flow](using-git-flow.html).
 
 ### Artifact Repository
 Artifacts can be retrieved from the Hippo Maven Forge Repository at [maven.onehippo.com/maven2-forge/](http://maven.onehippo.com/maven2-forge/).

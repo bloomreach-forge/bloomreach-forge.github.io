@@ -1,5 +1,5 @@
 
-## Using git flow
+## Branching and releasing with git flow
 
 We recommend to use git-flow as branching model in Hippo Forge projects because it is easier for most people to 
 understand and follow and also widely accepted. This page explains how to set up ```git flow``` and how to release and 
@@ -11,14 +11,17 @@ The instructions are based on these available references:
 - https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow-examples/
 - http://nvie.com/posts/a-successful-git-branching-model/
 
-### Git flow initialization
+### Git flow set-up
 
 In order to use ```git flow``` in your local workspace folder, do the following first, once:
 
 - Have two branches, ```master``` and ```develop```, in prior.
 - Initialize your working space once for the first time by running ```git flow init``` and accepting the default settings.
-- It is also recommended to set the default branch to ```develop```. Change the settings of the project to change the default branch
+- It is recommended to set the default branch to ```develop```. Change the settings of the project to change the default branch
 to ```develop```.
+
+After an initial release, the 'master' branch is always the same as the latest tag, whilst the 'develop' branch, and 
+possibly 'support/x.y' branches, are used as base for features and bug fixes.    
 
 ### Maintenance support branches
 
@@ -28,11 +31,12 @@ create it from a tag or a commit hash.
     git flow support start x.y tag-x.y.z
     
 The above creates a branch ```support/x.y``` from a tag called 'tag-x.y.z'. So for instance, if develop is on 
-2.0.0-SNAPSHOT, you can create a support/1.x branch from latest tag 1.5.0.
+2.0.0-SNAPSHOT, and you want to create a support branch for the 1.x range, you can create a support/1.x branch from 
+latest tag 1.5.0.
   
 Git flow is only about branching so you must set the correct SNAPSHOT versions manually and commit, push it.  
     
-### Releasing with git flow (summary)
+### How to release with git flow, 1 minute version
 
 From develop (or from support/x.y) branch, create release x.y.z: 
 
@@ -57,7 +61,7 @@ Push the tag & deploy artifacts:
 3. Deploy artifacts: ```mvn deploy```
 
 
-### Releasing with git flow (extended)
+### How to release with git flow, detailed version
 
 ##### Start a new release
 
@@ -125,7 +129,7 @@ Again, don't forget bumping up versions in the demo folder if it exists.
 
         git push origin develop
 
-##### Push master branch and bump up version in develop branch and push it.
+##### Push master branch.
 
 If the release was done from develop branch, not from support branch, ```master``` should be the same as the release
 branch. Next is to generate docs (if applicable) and commit, push.
@@ -153,7 +157,7 @@ Now, let's push the newly created tag generated in the finishing step:
 
 If you've published the release branch in the previous optional step, you may now remove the remote (temporary) release branch:
 
-        git push origin :release/x.y.z
+        git push origin --delete release/x.y.z
 
 Now, your normal release process is done. Your new release was made as a tag and published.
 

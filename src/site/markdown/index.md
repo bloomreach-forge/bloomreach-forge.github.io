@@ -11,20 +11,21 @@ For instance, it is common for a plugin upgrade to be triggered by a project upg
 See [the project list page](project-list.html) for an overview of all projects at hosted at [github.com/onehippo-forge]
 (https://github.com/onehippo-forge).
 
-Initially, in March 2017, 33 selected projects were migrated to GitHub from the discontinued Hippo SVN Forge 
-at [forge.onehippo.org] (https://forge.onehippo.org).
+Initially, in March 2017, 33 active projects were migrated to GitHub from the discontinued Hippo SVN Forge 
+at forge.onehippo.org (now redirected here).
 
 ### Development
-See [the development page](development.html) for some standards regarding developing a plugin project. There is also a
-[quality checklist](checklist.html). 
+See [the development page](development.html) for some standards regarding developing a plugin project. The preferred 
+branching model is explained in [using git flow](using-git-flow.html). There is also a [quality checklist](checklist.html). 
 
 ### Archived SVN projects
 The discontinued Hippo SVN Forge has been archived in the [Hippo SVN attic](http://svn.onehippo.org/repos/hippo/attic/forge/).
 
 ### Hippo CMS by BloomReach
-For general information about Hippo CMS and the BloomReach company h, see [onehippo.org](https://www.onehippo.org) and 
+For general information about Hippo CMS and the BloomReach company, see [onehippo.org](https://www.onehippo.org) and 
 [bloomreach.com](https://www.bloomreach.com) 
 
+### Redirected?
 <p class="alert alert-success">
     <b>Redirected here?</b><br/>
     You may have been redirected here from <a href="https://forge.onehippo.org">forge.onehippo.org</a>.<br/>
