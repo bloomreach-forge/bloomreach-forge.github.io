@@ -1,7 +1,7 @@
 
 ## Quality Checklist
 
-This page contains a quality checklist for community maintained projects hosted at the Hippo Forge. If your project 
+This page contains a quality checklist for community maintained projects hosted at the BloomReach Forge. If your project 
 meets all items in this list, it rocks!
 
 ### 1. Clear project name and tag line
@@ -23,7 +23,7 @@ In the project name only use lowercase letters [a-z].
 
 ### 4. Use project pom as parent
 Use the project pom `org.onehippo.cms7:hippo-cms7-project` as a parent to the plugin project. It provides a number of 
-standard pom sections and has some basic dependencies defined that are common to all Hippo projects. 
+standard pom sections and has some basic dependencies defined that are common to all BloomReach projects. 
 
 The release pom `org.onehippo.cms7:hippo-cms7-release` is extended from that and defines too much (like standard plugin 
 versions, Cargo configuration) to be used as parent pom. It is meant for implementation (end) projects. 
