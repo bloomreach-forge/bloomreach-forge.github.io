@@ -1,8 +1,8 @@
 
 ## Development
 
-On the Hippo Forge, plugins are developed and maintained by the Hippo Community, consisting of both developers from 
-BloomReach, the owner of Hippo CMS, and external developers, from partners and clients.  
+On the BloomReach Forge, plugins are developed and maintained by the BloomReach Community, consisting of both developers from 
+BloomReach and external developers, from partners and clients.  
 
 Forge projects can be maintained during the course of an implementation project. For instance, it is pretty common 
 for a plugin to be upgraded during a project upgrade. This also goes for new features or bug fixing.
