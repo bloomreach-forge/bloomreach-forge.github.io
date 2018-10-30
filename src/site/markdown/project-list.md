@@ -1,6 +1,9 @@
 
 ## The Projects
 
+##### Projects for BloomReach Experience Manager 13
+Coming soon!
+
 ##### Projects for Hippo CMS 12
 The following projects are maintained and available for Hippo CMS 12.
 
