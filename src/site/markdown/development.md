@@ -10,7 +10,7 @@ for a plugin to be upgraded during a project upgrade. This also goes for new fea
 ### Code Contributions
 Code contributions are very much welcome! On GitHub, they exist mostly in the form of pull requests. External 
 organizations can drive those pull requests, or feature requests, or release requests by contacting the 
-[BloomReach Services department](https://www.bloomreach.com/en/services/s).
+[BloomReach Services department](https://www.bloomreach.com/en/services).
 
 See the [GitHub documentation on contributing](https://guides.github.com/activities/contributing-to-open-source/#contributing), 
 basically forking and developing in a separate branch.
@@ -38,7 +38,7 @@ For publishing, the Maven `distributionManagement.repository.url` value is to be
 Only BloomReach developers have the access rights to publish it here.  
 
 ### Issue Tracking
-Hippo's JIRA at [issues.onehippo.com/browse/HIPFORGE](https://issues.onehippo.com/browse/HIPFORGE).
+The JIRA at [issues.onehippo.com/browse/HIPFORGE](https://issues.onehippo.com/browse/HIPFORGE).
 
 ### Continuous Integration
-Travis at [travis-ci.org/onehippo-forge/](https://travis-ci.org/onehippo-forge/).
+Travis at [travis-ci.org/bloomreach-forge/](https://travis-ci.org/bloomreach-forge/).

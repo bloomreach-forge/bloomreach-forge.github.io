@@ -14,12 +14,14 @@ Add a tag line / description describing what it does for the user, preferably st
 Without documentation the plugin doesn't exists! And screenshots rule!
 
 Mostly [GitHub Pages](https://pages.github.com/) is used to publish documents from the `master/docs` folder to a documentation 
-site at `https://onehippo-forge.github.io/[project-name]/`. Documentation is generated with Maven site plugin, using the
-[Hippo Forge Maven Skin](https://onehippo-forge.github.io/forge-maven-skin/) that is also a Forge project.
+site at `https://bloomreach-forge.github.io/[project-name]/`. Documentation is generated with Maven site plugin, using the
+[BloomReach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin/) that is also a Forge project.
 
 ### 3. Artifact group and package 
-To distinct from other plugins, use an artifact group id and Java package that both start with `org.onehippo.forge.[project-name]`. 
+To distinct from other plugins, use an artifact group id and Java package that both start with `org.bloomreach.forge.[project-name]`. 
 In the project name only use lowercase letters [a-z].
+
+Older projects use `org.onehippo.forge.[project-name]`.
 
 ### 4. Use project pom as parent
 Use the project pom `org.onehippo.cms7:hippo-cms7-project` as a parent to the plugin project. It provides a number of 
@@ -29,7 +31,8 @@ The release pom `org.onehippo.cms7:hippo-cms7-release` is extended from that and
 versions, Cargo configuration) to be used as parent pom. It is meant for implementation (end) projects. 
 
 ### 5. Demo project available 
-Provide an example demo project within the code as Maven submodule, to demonstrate the functionality.
+Provide an example demo project within the code as Maven submodule, to demonstrate the functionality. Best practice is 
+to not include the demo as <module> in the root pom to avoid it from being released.
 
 ### 6. Delivery tier best practices
 To the plugin's delivery tier (HST) code, apply our [best practices](https://www.onehippo.org/library/setup/best-practices.html).

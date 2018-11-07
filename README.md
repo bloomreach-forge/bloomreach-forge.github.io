@@ -1,7 +1,7 @@
 
 # Generate
 
-Generate the Hippo Forge Documentation site, from Markdown files at /src:  
+Generate the BloomReach Forge Documentation site from Markdown files at /src:  
 
 > mvn site:site 
 
