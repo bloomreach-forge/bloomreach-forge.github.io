@@ -32,7 +32,7 @@ versions, Cargo configuration) to be used as parent pom. It is meant for impleme
 
 ### 5. Demo project available 
 Provide an example demo project within the code as Maven submodule, to demonstrate the functionality. Best practice is 
-to not include the demo as <module> in the root pom to avoid it from being released.
+to not include the demo as &lt;module&gt; in the root pom to avoid it from being released.
 
 ### 6. Delivery tier best practices
 To the plugin's delivery tier (HST) code, apply our [best practices](https://www.onehippo.org/library/setup/best-practices.html).
