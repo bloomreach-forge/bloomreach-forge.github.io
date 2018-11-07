@@ -1,10 +1,9 @@
 
 ## Welcome!
 
-Welcome to the **Hippo Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of Hippo 
-CMS.
+Welcome to the **BloomReach Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of BloomReach Experience Manager.
 
-_Community plugins are maintained by the Hippo community and by implementation projects._ <br/>
+_Community plugins are maintained by the BloomReach community and by implementation projects._ <br/>
 For instance, it is common for a plugin upgrade to be triggered by a project upgrade.
 
 ### The projects
@@ -21,8 +20,8 @@ branching model is explained in [using git flow](using-git-flow.html). There is 
 ### Archived SVN projects
 The discontinued Hippo SVN Forge has been archived in the [Hippo SVN attic](http://svn.onehippo.org/repos/hippo/attic/forge/).
 
-### Hippo CMS by BloomReach
-For general information about Hippo CMS and the BloomReach company, see [onehippo.org](https://www.onehippo.org) and 
+### BloomReach Experience Manager
+For general information about BloomReach Experience Manager and the BloomReach company, see [developers.bloomreach.com](https://developers.bloomreach.com) and 
 [bloomreach.com](https://www.bloomreach.com) 
 
 ### Redirected?
