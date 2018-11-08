@@ -4,16 +4,16 @@
   <skin>
     <groupId>org.bloomreach.forge.mavenskin</groupId>
     <artifactId>forge-maven-skin</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
   </skin>
 
   <custom>
-    <hippoSkin>
+    <bloomreach>
       <!-- Add a 'Fork me on GitHub' ribbon  -->
       <gitHub>
         <projectId>bloomreach-forge/bloomreach-forge.github.io</projectId>
       </gitHub>
-    </hippoSkin>
+    </bloomreach>
   </custom>
 
   <publishDate format="d MMM yyyy" />

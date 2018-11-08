@@ -2,7 +2,7 @@
 ## Welcome!
 
 Welcome to the **BloomReach Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of 
-BloomReach's Hippo CMS and the BloomReach Experience Manager.
+BloomReach Experience Manager, formerly known as Hippo CMS.
 
 _Community plugins are maintained by the BloomReach community and by implementation projects._ <br/>
 For instance, it is common for a plugin upgrade to be triggered by a project upgrade.
