@@ -1,6 +1,12 @@
 
 ## The Projects
 
+##### Projects for BloomReach Experience Manager 13 (f.k.a. Hippo CMS 13)
+The following projects are maintained and available for version 13.
+
+|1|[IP Filter Plugin](https://github.com/bloomreach-forge/ip-filter)<br/>Control access to CMS and site on IP level.|[Documentation](https://bloomreach-forge.github.io/ip-filter/)|
+
+
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are maintained and available for version 12.
 
