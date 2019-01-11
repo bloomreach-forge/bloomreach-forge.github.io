@@ -5,7 +5,7 @@
 The following projects are maintained and available for version 13.
 
 |1|[IP Filter Plugin](https://github.com/bloomreach-forge/ip-filter)<br/>Control access to CMS and site on IP level.|[Documentation](https://bloomreach-forge.github.io/ip-filter/)|
-
+|2|[HST Content Version Utils](https://github.com/bloomreach-forge/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Documentation](https://bloomreach-forge.github.io/hst-content-version-utils/)|
 
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are maintained and available for version 12.
