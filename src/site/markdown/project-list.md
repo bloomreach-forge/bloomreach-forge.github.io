@@ -18,10 +18,11 @@ The following projects are maintained and available for version 13 and possibly 
 |11|[HST Spring Framework Support](https://github.com/bloomreach-forge/hst-spring-support)<br/>Combine Spring framework with HST.|[Documentation](https://bloomreach-forge.github.io/hst-spring-support/)|
 |12|[HST Spring Security Support](https://github.com/bloomreach-forge/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Documentation](https://bloomreach-forge.github.io/hst-spring-security/)|
 |13|[IFrame Perspective](https://github.com/bloomreach-forge/iframe-perspective)<br/>Add a CMS Perspective using an IFrame.|[Documentation](https://bloomreach-forge.github.io/iframe-perspective/)|
-|14|[JCR Shell](https://github.com/bloomreach-forge/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Documentation](https://bloomreach-forge.github.io/jcr-shell/)|
-|15|[JCR POJO Binding](https://github.com/bloomreach-forge/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Documentation](https://bloomreach-forge.github.io/jcr-pojo-binding/)|
-|16|[Page Flow](https://github.com/bloomreach-forge/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Documentation](https://bloomreach-forge.github.io/page-flow/)|
-|17|[WebDAV Support](https://github.com/bloomreach-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://bloomreach-forge.github.io/hippo-jcr-over-webdav/)|
+|14|[IP Filter Plugin](https://github.com/bloomreach-forge/ip-filter)<br/>Control access to CMS and site on IP level.|[Documentation](https://bloomreach-forge.github.io/ip-filter/)|
+|15|[JCR Shell](https://github.com/bloomreach-forge/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Documentation](https://bloomreach-forge.github.io/jcr-shell/)|
+|16|[JCR POJO Binding](https://github.com/bloomreach-forge/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Documentation](https://bloomreach-forge.github.io/jcr-pojo-binding/)|
+|17|[Page Flow](https://github.com/bloomreach-forge/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Documentation](https://bloomreach-forge.github.io/page-flow/)|
+|18|[WebDAV Support](https://github.com/bloomreach-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://bloomreach-forge.github.io/hippo-jcr-over-webdav/)|
 
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are maintained and available for version 12 and possibly lower. Upgrade efforts are very welcome, 
@@ -36,14 +37,13 @@ see [code contributions](development.html#Code_Contributions).
 |6|[Feeds](https://github.com/bloomreach-forge/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Documentation](https://bloomreach-forge.github.io/feeds/)|
 |7|[HST Apache Shiro Integration Support](https://github.com/bloomreach-forge/hst-shiro)<br/>Combine Apache Shiro with HST.|[Documentation](https://bloomreach-forge.github.io/hst-shiro/)|
 |8|[HST PDF Renderer](https://github.com/bloomreach-forge/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Documentation](https://bloomreach-forge.github.io/hst-pdf-renderer/)|
-|9|[IP Filter Plugin](https://github.com/bloomreach-forge/ip-filter)<br/>Control access to CMS and site on IP level.|[Documentation](https://bloomreach-forge.github.io/ip-filter/)|
-|10|[OAI-PMH Provider](https://github.com/bloomreach-forge/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Documentation](https://bloomreach-forge.github.io/oai-pmh-provider/)|
-|11|[Page Management Support](https://github.com/bloomreach-forge/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Documentation](https://bloomreach-forge.github.io/page-management-support/)|
-|12|[Properties Component](https://github.com/bloomreach-forge/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Documentation](https://bloomreach-forge.github.io/properties/)|
-|13|[Reset Password](https://github.com/bloomreach-forge/reset-password)<br/>Have your CMS password reset.|[Documentation](https://bloomreach-forge.github.io/reset-password/)|
-|14|[Settings Management](https://github.com/bloomreach-forge/settings-management)<br/>Edit settings from the CMS instead of console.|[Documentation](https://bloomreach-forge.github.io/settings-management/)|
-|15|[Servlet Filter Decorators](https://github.com/bloomreach-forge/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Documentation](https://bloomreach-forge.github.io/servlet-filter-decorators/)|
-|16|[Templating Support](https://github.com/bloomreach-forge/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Documentation](https://bloomreach-forge.github.io/templating-support/)|
+|9|[OAI-PMH Provider](https://github.com/bloomreach-forge/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Documentation](https://bloomreach-forge.github.io/oai-pmh-provider/)|
+|10|[Page Management Support](https://github.com/bloomreach-forge/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Documentation](https://bloomreach-forge.github.io/page-management-support/)|
+|11|[Properties Component](https://github.com/bloomreach-forge/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Documentation](https://bloomreach-forge.github.io/properties/)|
+|12|[Reset Password](https://github.com/bloomreach-forge/reset-password)<br/>Have your CMS password reset.|[Documentation](https://bloomreach-forge.github.io/reset-password/)|
+|13|[Settings Management](https://github.com/bloomreach-forge/settings-management)<br/>Edit settings from the CMS instead of console.|[Documentation](https://bloomreach-forge.github.io/settings-management/)|
+|14|[Servlet Filter Decorators](https://github.com/bloomreach-forge/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Documentation](https://bloomreach-forge.github.io/servlet-filter-decorators/)|
+|15|[Templating Support](https://github.com/bloomreach-forge/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Documentation](https://bloomreach-forge.github.io/templating-support/)|
 
 ##### Projects for BloomReach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see 
