@@ -22,7 +22,8 @@ The following projects are maintained and available for version 13 and possibly 
 |15|[JCR Shell](https://github.com/bloomreach-forge/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Documentation](https://bloomreach-forge.github.io/jcr-shell/)|
 |16|[JCR POJO Binding](https://github.com/bloomreach-forge/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Documentation](https://bloomreach-forge.github.io/jcr-pojo-binding/)|
 |17|[Page Flow](https://github.com/bloomreach-forge/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Documentation](https://bloomreach-forge.github.io/page-flow/)|
-|18|[WebDAV Support](https://github.com/bloomreach-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://bloomreach-forge.github.io/hippo-jcr-over-webdav/)|
+|18|[Settings Management](https://github.com/bloomreach-forge/settings-management)<br/>Edit settings from the CMS instead of console.|[Documentation](https://bloomreach-forge.github.io/settings-management/)|
+|19|[WebDAV Support](https://github.com/bloomreach-forge/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Documentation](https://bloomreach-forge.github.io/hippo-jcr-over-webdav/)|
 
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are maintained and available for version 12 and possibly lower. Upgrade efforts are very welcome, 
@@ -41,9 +42,8 @@ see [code contributions](development.html#Code_Contributions).
 |10|[Page Management Support](https://github.com/bloomreach-forge/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Documentation](https://bloomreach-forge.github.io/page-management-support/)|
 |11|[Properties Component](https://github.com/bloomreach-forge/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Documentation](https://bloomreach-forge.github.io/properties/)|
 |12|[Reset Password](https://github.com/bloomreach-forge/reset-password)<br/>Have your CMS password reset.|[Documentation](https://bloomreach-forge.github.io/reset-password/)|
-|13|[Settings Management](https://github.com/bloomreach-forge/settings-management)<br/>Edit settings from the CMS instead of console.|[Documentation](https://bloomreach-forge.github.io/settings-management/)|
-|14|[Servlet Filter Decorators](https://github.com/bloomreach-forge/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Documentation](https://bloomreach-forge.github.io/servlet-filter-decorators/)|
-|15|[Templating Support](https://github.com/bloomreach-forge/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Documentation](https://bloomreach-forge.github.io/templating-support/)|
+|13|[Servlet Filter Decorators](https://github.com/bloomreach-forge/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Documentation](https://bloomreach-forge.github.io/servlet-filter-decorators/)|
+|14|[Templating Support](https://github.com/bloomreach-forge/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Documentation](https://bloomreach-forge.github.io/templating-support/)|
 
 ##### Projects for BloomReach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see 
