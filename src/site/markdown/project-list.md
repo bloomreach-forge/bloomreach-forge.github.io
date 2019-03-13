@@ -53,13 +53,13 @@ The following projects are available for version 11 and possibly lower. Upgrade 
 |1|[Gallery Background Processor](https://bloomreach-forge.github.io/gallery-background-processor)<br/>Have image variants created in the background.|[Repository](https://github.com/bloomreach-forge/gallery-background-processor/)|
 |2|[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
 |3|[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
+|4|[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
 
 ##### Projects for BloomReach Experience Manager 10 (f.k.a. Hippo CMS 10)
 The following projects are available for version 10. Upgrade efforts are very welcome, see [code contributions](development.html#Code_Contributions).
 
 |-|----------|----------|
 |1|[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
-|2|[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
 
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
