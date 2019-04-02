@@ -23,10 +23,14 @@
   <version>1.0.0</version>
 
   <inceptionYear>2017</inceptionYear>
+  <url>https://bloomreach-forge.github.io</url>
 
   <properties>
     <maven.plugin.site.version>3.6</maven.plugin.site.version>
     <maven.doxia-module-markdown.version>1.7</maven.doxia-module-markdown.version>
+
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 
   <developers>
