@@ -25,7 +25,8 @@ The following projects are maintained and available for version 13 and possibly 
 |18|[JCR POJO Binding](https://bloomreach-forge.github.io/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Repository](https://github.com/bloomreach-forge/jcr-pojo-binding/)|
 |19|[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
 |20|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
-|21|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
+|21|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|22|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
 
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are maintained and available for version 12 and possibly lower. Upgrade efforts are very welcome, 
@@ -44,7 +45,6 @@ see [code contributions](development.html#Code_Contributions).
 |10|[Properties Component](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
 |11|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
 |12|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
-|13|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 
 ##### Projects for BloomReach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see 
