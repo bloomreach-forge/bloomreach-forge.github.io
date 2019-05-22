@@ -34,17 +34,18 @@ see [code contributions](development.html#Code_Contributions).
 
 |--|----------|----------|
 |1 |[Advanced Search Taxonomy Workflow](https://bloomreach-forge.github.io/advanced-search-taxonomy-workflow)<br/>From the search perspective, set multiple documents with  selected taxonomy categories.|[Repository](https://github.com/bloomreach-forge/advanced-search-taxonomy-workflow/)|
-|2 |[Domain Creation](https://bloomreach-forge.github.io/domain-creation)<br/>Automatically create simple domain rules for your project.|[Repository](https://github.com/bloomreach-forge/domain-creation/blob/master/README.md)
-|3 |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
-|4 |[Essentializer](https://bloomreach-forge.github.io/essentializer)<br/>Package existing functionality as Essentials plugin.|[Repository](https://github.com/bloomreach-forge/essentializer/blob/master/README.md)|
-|5|[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
-|6|[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
-|7|[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
-|8|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
-|9|[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-|10|[Properties Component](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
-|11|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
-|12|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
+|2 |[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
+|3 |[Domain Creation](https://bloomreach-forge.github.io/domain-creation)<br/>Automatically create simple domain rules for your project.|[Repository](https://github.com/bloomreach-forge/domain-creation/blob/master/README.md)
+|4 |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
+|5 |[Essentializer](https://bloomreach-forge.github.io/essentializer)<br/>Package existing functionality as Essentials plugin.|[Repository](https://github.com/bloomreach-forge/essentializer/blob/master/README.md)|
+|6|[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
+|7|[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
+|8|[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
+|9|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
+|10|[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
+|11|[Properties Component](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
+|12|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
+|13|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 
 ##### Projects for BloomReach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see 
@@ -55,12 +56,6 @@ The following projects are available for version 11 and possibly lower. Upgrade 
 |2|[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
 |3|[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
 |4|[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
-
-##### Projects for BloomReach Experience Manager 10 (f.k.a. Hippo CMS 10)
-The following projects are available for version 10. Upgrade efforts are very welcome, see [code contributions](development.html#Code_Contributions).
-
-|-|----------|----------|
-|1|[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
 
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
