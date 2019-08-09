@@ -28,10 +28,11 @@ The following projects are maintained and available for version 13 and possibly 
 |21|[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
 |22|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
 |23|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
-|24|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
+|24|[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
+|25|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
 
 ##### Projects for BloomReach Experience Manager 12 (f.k.a. Hippo CMS 12)
-The following projects are maintained and available for version 12 and possibly lower. Upgrade efforts are very welcome, 
+The following projects are maintained and available for version 12 and possibly lower. Upgrade efforts are very welcome,
 see [code contributions](development.html#Code_Contributions).
 
 |--|----------|----------|
@@ -49,7 +50,7 @@ see [code contributions](development.html#Code_Contributions).
 |12|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 
 ##### Projects for BloomReach Experience Manager 11 (f.k.a. Hippo CMS 11)
-The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see 
+The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see
 [code contributions](development.html#Code_Contributions).
 
 |-|----------|----------|
@@ -65,6 +66,6 @@ The following projects are retired by the team. They are not maintained any more
 |2|[HST Salesforce Integration](https://bloomreach-forge.github.io/hst-salesforce-integration)<br/>Integrate with Salesforce via REST API.|[Repository](https://github.com/bloomreach-forge/hst-salesforce-integration/)
 |3|[JCR Runner](https://bloomreach-forge.github.io/jcr-runner)<br/>Do bulk operations on a running JCR repository over RMI.|[Repository](https://github.com/bloomreach-forge/jcr-runner/)|
 
-##### Forge Maven Skin 
-The [BloomReach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin) for documentation sites, with its 
-[repository](https://github.com/bloomreach-forge/forge-maven-skin/), is not bound to a product version. 
+##### Forge Maven Skin
+The [BloomReach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin) for documentation sites, with its
+[repository](https://github.com/bloomreach-forge/forge-maven-skin/), is not bound to a product version.
