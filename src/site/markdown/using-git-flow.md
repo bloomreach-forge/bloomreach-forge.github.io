@@ -1,7 +1,7 @@
 
 ## Branching and releasing with git flow
 
-We recommend to use git-flow as branching model in BloomReach Forge projects because it is easier for most people to 
+We recommend to use git-flow as branching model in Bloomreach Forge projects because it is easier for most people to 
 understand and follow and also widely accepted. This page explains how to set up ```git flow``` and how to release and 
 deploy artifacts.
 
@@ -161,13 +161,13 @@ If you've published the release branch in the previous optional step, you may no
 
 Now, your normal release process is done. Your new release was made as a tag and published.
 
-##### Deploy the release tag to BloomReach Forge Maven Repository
+##### Deploy the release tag to Bloomreach Forge Maven Repository
 
 Check out the release tag like the following example. You may name the local branch to anything else.
 
         git checkout tags/x.y.z -b tag-x.y.z
 
-Now, deploy it to BloomReach Forge Maven repository from the tag branch:
+Now, deploy it to Bloomreach Forge Maven repository from the tag branch:
 
         mvn deploy
 

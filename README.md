@@ -1,7 +1,7 @@
 
 # Generate
 
-Generate the BloomReach Forge Documentation site from Markdown files at /src:  
+Generate the Bloomreach Forge Documentation site from Markdown files at /src:  
 
 > mvn site:site 
 

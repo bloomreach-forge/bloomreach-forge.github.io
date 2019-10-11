@@ -7,7 +7,7 @@ The following projects are maintained and available for version 13 and possibly 
 |--|----------|----------|
 |1 |[Apache Camel Hippo Events Support](https://bloomreach-forge.github.io/camel-events-support)<br/>Use Apache Camel from Hippo Event Bus.|[Repository](https://github.com/bloomreach-forge/camel-events-support/)|
 |2 |[Breadcrumb](https://bloomreach-forge.github.io/breadcrumb)<br/>An HST component providing a site breadcrumb.|[Repository](https://github.com/bloomreach-forge/breadcrumb/)|
-|3 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the BloomReach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
+|3 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the Bloomreach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
 |4 |[Content Export / Import](https://bloomreach-forge.github.io/content-export-import)<br/>Higher level Content Export and Import.|[Repository](https://github.com/bloomreach-forge/content-export-import/)|
 |5 |[Document Commenting Plugin](https://bloomreach-forge.github.io/document-commenting)<br/>Add commenting functionality for content editors in the CMS.|[Repository](https://github.com/bloomreach-forge/document-commenting/)|
 |6 |[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|

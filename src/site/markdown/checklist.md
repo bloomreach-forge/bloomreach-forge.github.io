@@ -1,7 +1,7 @@
 
 ## Quality Checklist
 
-This page contains a quality checklist for community maintained projects hosted at the BloomReach Forge. If your project 
+This page contains a quality checklist for community maintained projects hosted at the Bloomreach Forge. If your project 
 meets all items in this list, it rocks!
 
 ### 1. Clear project name and tag line
@@ -15,7 +15,7 @@ Without documentation the plugin doesn't exists! And screenshots rule!
 
 Mostly [GitHub Pages](https://pages.github.com/) is used to publish documents from the `master/docs` folder to a documentation 
 site at `https://bloomreach-forge.github.io/[project-name]/`. Documentation is generated with Maven site plugin, using the
-[BloomReach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin/) that is also a Forge project.
+[Bloomreach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin/) that is also a Forge project.
 
 ### 3. Artifact group and package 
 To distinct from other plugins, use an artifact group id and Java package that both start with `org.bloomreach.forge.[project-name]`. 
@@ -25,7 +25,7 @@ Older projects use `org.onehippo.forge.[project-name]`.
 
 ### 4. Use project pom as parent
 Use the project pom `org.onehippo.cms7:hippo-cms7-project` as a parent to the plugin project. It provides a number of 
-standard pom sections and has some basic dependencies defined that are common to all BloomReach projects. 
+standard pom sections and has some basic dependencies defined that are common to all Bloomreach projects. 
 
 The release pom `org.onehippo.cms7:hippo-cms7-release` is extended from that and defines too much (like standard plugin 
 versions, Cargo configuration) to be used as parent pom. It is meant for implementation (end) projects. 

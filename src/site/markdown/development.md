@@ -1,8 +1,8 @@
 
 ## Development
 
-On the BloomReach Forge, plugins are developed and maintained by the BloomReach Community, consisting of both developers from 
-BloomReach and external developers, from partners and clients.  
+On the Bloomreach Forge, plugins are developed and maintained by the Bloomreach Community, consisting of both developers from 
+Bloomreach and external developers, from partners and clients.  
 
 Forge projects can be maintained during the course of an implementation project. For instance, it is pretty common 
 for a plugin to be upgraded during a project upgrade. This also goes for new features or bug fixing.
@@ -10,7 +10,7 @@ for a plugin to be upgraded during a project upgrade. This also goes for new fea
 ### Code Contributions
 Code contributions are very much welcome! On GitHub, they exist mostly in the form of pull requests. External 
 organizations can drive those pull requests, or feature requests, or release requests by contacting the 
-[BloomReach Services department](https://www.bloomreach.com/en/services).
+[Bloomreach Services department](https://www.bloomreach.com/en/services).
 
 See the [GitHub documentation on contributing](https://guides.github.com/activities/contributing-to-open-source/#contributing), 
 basically forking and developing in a separate branch.
@@ -35,7 +35,7 @@ features and bug fixes.  See [using git flow](using-git-flow.html).
 Artifacts can be retrieved from the Hippo Maven Forge Repository at [maven.onehippo.com/maven2-forge/](http://maven.onehippo.com/maven2-forge/).
 
 For publishing, the Maven `distributionManagement.repository.url` value is to be set at `https://maven.onehippo.com/content/repositories/forge-releases/`.
-Only BloomReach developers have the access rights to publish it here.  
+Only Bloomreach developers have the access rights to publish it here.  
 
 ### Issue Tracking
 The JIRA at [issues.onehippo.com/browse/HIPFORGE](https://issues.onehippo.com/browse/HIPFORGE).
