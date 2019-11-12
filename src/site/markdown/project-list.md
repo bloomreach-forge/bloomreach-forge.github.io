@@ -42,10 +42,11 @@ see [code contributions](development.html#Code_Contributions).
 |2 |[Domain Creation](https://bloomreach-forge.github.io/domain-creation)<br/>Automatically create simple domain rules for your project.|[Repository](https://github.com/bloomreach-forge/domain-creation/blob/master/README.md)
 |3 |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
 |4 |[Essentializer](https://bloomreach-forge.github.io/essentializer)<br/>Package existing functionality as Essentials plugin.|[Repository](https://github.com/bloomreach-forge/essentializer/blob/master/README.md)|
-|5 |[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
-|6 |[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
-|7 |[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
-|8 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
+|5 |[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
+|6 |[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
+|7 |[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
+|8 |[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
+|9 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
 |10|[Properties Component](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
 |11|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 
@@ -56,7 +57,6 @@ The following projects are available for version 11 and possibly lower. Upgrade 
 |-|----------|----------|
 |1|[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
 |2|[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
-|3|[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
 
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
