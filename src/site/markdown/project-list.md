@@ -5,7 +5,7 @@
 The following projects are maintained and available for version 14 and possibly lower.
 
 |--|----------|----------|
-|1|[IP Filter Plugin](https://bloomreach-forge.github.io/ip-filter)<br/>Control access to CMS and site on IP level.|[Repository](https://github.com/bloomreach-forge/ip-filter/)|
+|1 |[IP Filter Plugin](https://bloomreach-forge.github.io/ip-filter)<br/>Control access to CMS and site on IP level.|[Repository](https://github.com/bloomreach-forge/ip-filter/)|
 
 
 
