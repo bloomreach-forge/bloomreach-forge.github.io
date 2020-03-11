@@ -12,6 +12,7 @@ The following projects are available for version 14 and possibly lower.
 |5 |[IP Filter Plugin](https://bloomreach-forge.github.io/ip-filter)<br/>Control access to CMS and site on IP level.|[Repository](https://github.com/bloomreach-forge/ip-filter/)|
 |6 |[JCR POJO Binding](https://bloomreach-forge.github.io/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Repository](https://github.com/bloomreach-forge/jcr-pojo-binding/)|
 |7 |[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
+|8 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
@@ -30,16 +31,15 @@ The following projects are available for version 13 and possibly lower.
 |11|[Hipshoot](https://bloomreach-forge.github.io/hipshoot)<br/>Integrate with Spring Boot.|[Repository](https://github.com/bloomreach-forge/hipshoot/)|
 |12|[HST Content Version Utils](https://bloomreach-forge.github.io/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Repository](https://github.com/bloomreach-forge/hst-content-version-utils/)|
 |13|[HST Spring Framework Support](https://bloomreach-forge.github.io/hst-spring-support)<br/>Combine Spring framework with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-support/)|
-|14|[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
-|15|[IFrame Perspective](https://bloomreach-forge.github.io/iframe-perspective)<br/>Add a CMS Perspective using an IFrame.|[Repository](https://github.com/bloomreach-forge/iframe-perspective/)|
-|16|[JCR Shell](https://bloomreach-forge.github.io/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Repository](https://github.com/bloomreach-forge/jcr-shell/)|
-|17|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
-|18|[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
-|19|[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-|20|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
-|21|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
-|22|[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-|23|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
+|14|[IFrame Perspective](https://bloomreach-forge.github.io/iframe-perspective)<br/>Add a CMS Perspective using an IFrame.|[Repository](https://github.com/bloomreach-forge/iframe-perspective/)|
+|15|[JCR Shell](https://bloomreach-forge.github.io/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Repository](https://github.com/bloomreach-forge/jcr-shell/)|
+|16|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
+|17|[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
+|18|[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
+|19|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
+|20|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|21|[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
+|22|[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
 
 ##### Projects for Bloomreach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are available for version 12 and possibly lower. Upgrade efforts are very welcome,
