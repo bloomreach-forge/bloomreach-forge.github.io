@@ -23,6 +23,7 @@ The following projects are available for version 14 and possibly lower.
 |16|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
 |17|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 |18|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
+|19|[Sitemapv2](https://github.com/bloomreach-forge/sitemapv2)<br/>Plugin to generate sitemap.xml, successor of the sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
