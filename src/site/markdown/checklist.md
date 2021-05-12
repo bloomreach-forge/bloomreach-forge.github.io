@@ -35,13 +35,13 @@ Provide an example demo project within the code as Maven submodule, to demonstra
 to not include the demo as &lt;module&gt; in the root pom to avoid it from being released.
 
 ### 6. Delivery tier best practices
-To the plugin's delivery tier (HST) code, apply our [best practices](https://www.onehippo.org/library/setup/best-practices.html).
+To the plugin's delivery tier (HST) code, apply our [best practices](https://documentation.bloomreach.com/library/setup/best-practices.html).
 
 Some key point are: use limits on queries, have translatable labels, make smart usage of logging. 
 
 ### 7. Hide any namespace
 If the plugin defines a namespace and that namespace is not intended for editing in the CMS, make sure to hide it. 
-See [Hide a Namespace in the CMS editor](https://www.onehippo.org/library/concepts/plugins/hide-a-namespace-in-the-cms-editor.html) 
+See [Hide a Namespace in the CMS editor](https://documentation.bloomreach.com/library/concepts/plugins/hide-a-namespace-in-the-cms-editor.html) 
 for how this can be achieved.
 
 ### 8. Clustering
