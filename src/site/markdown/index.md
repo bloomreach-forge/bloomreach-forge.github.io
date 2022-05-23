@@ -1,4 +1,3 @@
-
 ## Welcome!
 
 Welcome to the **Bloomreach Forge on GitHub**, the community place for plugins, add-ons and extensions built on top of 

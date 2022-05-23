@@ -1,4 +1,3 @@
-
 ## Branching and releasing with git flow
 
 We recommend to use git-flow as branching model in Bloomreach Forge projects because it is easier for most people to 

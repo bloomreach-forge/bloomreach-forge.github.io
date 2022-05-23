@@ -1,4 +1,3 @@
-
 ## Development
 
 On the Bloomreach Forge, plugins are developed and maintained by the Bloomreach Community, consisting of both developers from 

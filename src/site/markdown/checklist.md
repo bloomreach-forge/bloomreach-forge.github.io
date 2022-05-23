@@ -1,4 +1,3 @@
-
 ## Quality Checklist
 
 This page contains a quality checklist for community maintained projects hosted at the Bloomreach Forge. If your project 
