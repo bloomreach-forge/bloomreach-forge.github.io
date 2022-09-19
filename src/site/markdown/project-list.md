@@ -17,7 +17,8 @@ The following projects are available for version 15 and possibly lower.
 |11|[JCR POJO Binding](https://bloomreach-forge.github.io/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Repository](https://github.com/bloomreach-forge/jcr-pojo-binding/)|
 |12|[Localization Shortcut](https://github.com/bloomreach-forge/localization-shortcut/blob/master/release-notes.md)<br/>Change your current locale and timezone from th CMS.|[Repository](https://github.com/bloomreach-forge/localization-shortcut/)|
 |13|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
-|14|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
+|14|[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
+|15|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
@@ -29,11 +30,10 @@ The following projects are available for version 14 and possibly lower.
 |4 |[Hippo Utilities](https://bloomreach-forge.github.io/hippo-utilities)<br/>Generic code for reusage.|[Repository](https://github.com/bloomreach-forge/hippo-utilities/)|
 |5 |[IFrame Perspective](https://bloomreach-forge.github.io/iframe-perspective)<br/>Add a CMS Perspective using an IFrame.|[Repository](https://github.com/bloomreach-forge/iframe-perspective/)|
 |6 |[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-|7 |[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
-|8 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
-|9 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
-|10|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
-|11|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|7 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
+|8 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
+|9 |[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
+|10|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
