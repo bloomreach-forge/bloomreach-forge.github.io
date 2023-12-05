@@ -23,6 +23,7 @@ The following projects are available for version 15 and possibly lower.
 |17|[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
 |18|[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
 |19|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
+|20|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
@@ -30,10 +31,9 @@ The following projects are available for version 14 and possibly lower.
 |--|----------|----------|
 |1|[Folder Context Menus](https://bloomreach-forge.github.io/folder-context-menus)<br/>Add extra options to the folder context menu.|[Repository](https://github.com/bloomreach-forge/folder-context-menus/)|
 |2|[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-|3|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)|
-|4|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
-|5|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
-|6|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|3|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
+|4|[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
+|5|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
