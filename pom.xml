@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Copyright 2017-2018 Bloomreach, Inc.
+  Copyright 2017-2024 Bloomreach, Inc.
 
   Licensed under the Apache License, Version 2.0 (the  "License");
   you may not use this file except in compliance with the License.
@@ -26,8 +26,8 @@
   <url>https://bloomreach-forge.github.io</url>
 
   <properties>
-    <maven.plugin.site.version>3.6</maven.plugin.site.version>
-    <maven.doxia-module-markdown.version>1.7</maven.doxia-module-markdown.version>
+    <maven.plugin.site.version>3.12.1</maven.plugin.site.version>
+    <maven.doxia-module-markdown.version>1.12.0</maven.doxia-module-markdown.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
