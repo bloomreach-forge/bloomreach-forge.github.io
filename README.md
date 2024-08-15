@@ -5,6 +5,11 @@ Generate the Bloomreach Forge Documentation site from Markdown files at /src:
 
 > mvn site:site 
 
+
+> [!IMPORTANT]  
+> Please use JDK8 when generating documents
+
+
 The Maven site plugin's `<outputDirectory>` is `${project.basedir}` so the all files are placed in the root.
 
 # Publish
