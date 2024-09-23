@@ -20,6 +20,7 @@ The following projects are available for version 16 and possibly lower.
 |14|[Bloomreach XM Utilities](https://bloomreach-forge.github.io/hippo-utilities)<br/>Generic code for reusage.|[Repository](https://github.com/bloomreach-forge/hippo-utilities/)|
 |15|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
 |16|[Document Commenting Plugin](https://bloomreach-forge.github.io/document-commenting)<br/>Add commenting functionality for content editors in the CMS.|[Repository](https://github.com/bloomreach-forge/document-commenting/)
+|17 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
 
 ##### Projects for Bloomreach Experience Manager 15
 The following projects are available for version 15 and possibly lower.
@@ -29,8 +30,7 @@ The following projects are available for version 15 and possibly lower.
 |2 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the Bloomreach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
 |3 |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
 |4 |[External Document Picker](https://bloomreach-forge.github.io/external-document-picker)<br/>Implement external document pickers for the CMS.|[Repository](https://github.com/bloomreach-forge/external-document-picker/)|
-|5 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
-|6 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
+|5 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
