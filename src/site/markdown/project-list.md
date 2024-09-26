@@ -24,6 +24,8 @@ The following projects are available for version 16 and possibly lower.
 |18|[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
 |19|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
 |20|[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
+|21|[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
+|22|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 
 ##### Projects for Bloomreach Experience Manager 15
 The following projects are available for version 15 and possibly lower.
@@ -38,22 +40,20 @@ The following projects are available for version 14 and possibly lower.
 
 |--|----------|----------|
 |1 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
-|2 |[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
-|3 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|2 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
 
 |--|----------|----------|
 |1 |[Gallery Background Processor](https://bloomreach-forge.github.io/gallery-background-processor)<br/>Have image variants created in the background.|[Repository](https://github.com/bloomreach-forge/gallery-background-processor/)|
-|2 |[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
-|3 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
-|4 |[Hipshoot](https://bloomreach-forge.github.io/hipshoot)<br/>Integrate with Spring Boot.|[Repository](https://github.com/bloomreach-forge/hipshoot/)|
-|5 |[HST Spring Framework Support](https://bloomreach-forge.github.io/hst-spring-support)<br/>Combine Spring framework with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-support/)|
-|6 |[JCR Shell](https://bloomreach-forge.github.io/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Repository](https://github.com/bloomreach-forge/jcr-shell/)|
-|7 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
-|8 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-|9 |[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
+|2 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
+|3 |[Hipshoot](https://bloomreach-forge.github.io/hipshoot)<br/>Integrate with Spring Boot.|[Repository](https://github.com/bloomreach-forge/hipshoot/)|
+|4 |[HST Spring Framework Support](https://bloomreach-forge.github.io/hst-spring-support)<br/>Combine Spring framework with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-support/)|
+|5 |[JCR Shell](https://bloomreach-forge.github.io/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Repository](https://github.com/bloomreach-forge/jcr-shell/)|
+|6 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
+|7 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
+|8 |[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
 
 ##### Projects for Bloomreach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are available for version 12 and possibly lower. Upgrade efforts are very welcome,
@@ -66,15 +66,13 @@ see [code contributions](development.html#Code_Contributions).
 |4 |[External Resources](https://bloomreach-forge.github.io/external-resources)<br/>Manage external resources from Mediamosa in the CMS.|[Repository](https://github.com/bloomreach-forge/external-resources/)|
 |5 |[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
 |6 |[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
-|7 |[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 
 ##### Projects for Bloomreach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see
 [code contributions](development.html#Code_Contributions).
 
 |--|----------|----------|
-|1 |[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
-|2 |[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
+|1 |[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
 
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
@@ -83,6 +81,8 @@ The following projects are retired by the team. They are not maintained any more
 |1 |[CMIS Replication Module](https://bloomreach-forge.github.io/cmis-replication)<br/>Replicate external documents as Hippo assets using CMIS open standard.|[Repository](https://github.com/bloomreach-forge/cmis-replication/)
 |2 |[HST Salesforce Integration](https://bloomreach-forge.github.io/hst-salesforce-integration)<br/>Integrate with Salesforce via REST API.|[Repository](https://github.com/bloomreach-forge/hst-salesforce-integration/)
 |3 |[JCR Runner](https://bloomreach-forge.github.io/jcr-runner)<br/>Do bulk operations on a running JCR repository over RMI.|[Repository](https://github.com/bloomreach-forge/jcr-runner/)|
+|4 |[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
+|5 |[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
 
 ##### Forge Maven Skin
 The [Bloomreach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin) for documentation sites, with its
