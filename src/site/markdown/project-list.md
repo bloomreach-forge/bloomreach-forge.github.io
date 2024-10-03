@@ -26,6 +26,8 @@ The following projects are available for version 16 and possibly lower.
 |20|[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
 |21|[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
 |22|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
+|23|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
+|24|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
 
 ##### Projects for Bloomreach Experience Manager 15
 The following projects are available for version 15 and possibly lower.
@@ -33,14 +35,12 @@ The following projects are available for version 15 and possibly lower.
 |--|----------|----------|
 |1 |[Apache Camel Hippo Events Support](https://bloomreach-forge.github.io/camel-events-support)<br/>Use Apache Camel from Hippo Event Bus.|[Repository](https://github.com/bloomreach-forge/camel-events-support/)|
 |2 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the Bloomreach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
-|3 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
 
 |--|----------|----------|
-|1 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
-|2 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|1 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
