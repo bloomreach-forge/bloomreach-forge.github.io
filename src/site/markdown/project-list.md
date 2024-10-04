@@ -28,13 +28,13 @@ The following projects are available for version 16 and possibly lower.
 |22|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 |23|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 |24|[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
+|25|[Apache Camel Hippo Events Support](https://bloomreach-forge.github.io/camel-events-support)<br/>Use Apache Camel from Hippo Event Bus.|[Repository](https://github.com/bloomreach-forge/camel-events-support/)|
 
 ##### Projects for Bloomreach Experience Manager 15
 The following projects are available for version 15 and possibly lower.
 
 |--|----------|----------|
-|1 |[Apache Camel Hippo Events Support](https://bloomreach-forge.github.io/camel-events-support)<br/>Use Apache Camel from Hippo Event Bus.|[Repository](https://github.com/bloomreach-forge/camel-events-support/)|
-|2 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the Bloomreach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
+|1 |[B.R.U.T.](https://github.com/bloomreach-forge/brut/blob/develop/README.MD)<br/>Unit test the delivery tier with the Bloomreach Unit Testing library.|[Repository](https://github.com/bloomreach-forge/brut/)|
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
@@ -70,10 +70,7 @@ see [code contributions](development.html#Code_Contributions).
 ##### Projects for Bloomreach Experience Manager 11 (f.k.a. Hippo CMS 11)
 The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see
 [code contributions](development.html#Code_Contributions).
-
-|--|----------|----------|
-|1 |[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
-
+---
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
 
@@ -83,6 +80,7 @@ The following projects are retired by the team. They are not maintained any more
 |3 |[JCR Runner](https://bloomreach-forge.github.io/jcr-runner)<br/>Do bulk operations on a running JCR repository over RMI.|[Repository](https://github.com/bloomreach-forge/jcr-runner/)|
 |4 |[URL Rewriter](https://bloomreach-forge.github.io/url-rewriter)<br/>Create rewrite rules for your site, based on CMS documents.|[Repository](https://github.com/bloomreach-forge/url-rewriter/)|
 |5 |[Settings Management](https://bloomreach-forge.github.io/settings-management)<br/>Edit settings from the CMS instead of console.|[Repository](https://github.com/bloomreach-forge/settings-management/)|
+|6 |[Web Archiving](https://bloomreach-forge.github.io/web-archiving)<br/>Integrate with Web Archiving agencies.|[Repository](https://github.com/bloomreach-forge/web-archiving/)|
 
 ##### Forge Maven Skin
 The [Bloomreach Forge Maven Skin](https://bloomreach-forge.github.io/forge-maven-skin) for documentation sites, with its
