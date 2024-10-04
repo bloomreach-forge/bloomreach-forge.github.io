@@ -30,6 +30,7 @@ The following projects are available for version 16 and possibly lower.
 |24|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 |25|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 |26|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
+|27 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
 
 ##### Projects for Bloomreach Experience Manager 14
 The following projects are available for version 14 and possibly lower.
@@ -46,8 +47,7 @@ The following projects are available for version 13 and possibly lower.
 |3 |[Hipshoot](https://bloomreach-forge.github.io/hipshoot)<br/>Integrate with Spring Boot.|[Repository](https://github.com/bloomreach-forge/hipshoot/)|
 |4 |[HST Spring Framework Support](https://bloomreach-forge.github.io/hst-spring-support)<br/>Combine Spring framework with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-support/)|
 |5 |[JCR Shell](https://bloomreach-forge.github.io/jcr-shell)<br/>Get shell access to JCR system through JCR over WebDAV.|[Repository](https://github.com/bloomreach-forge/jcr-shell/)|
-|6 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-|7 |[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
+|6 |[WebDAV Support](https://bloomreach-forge.github.io/hippo-jcr-over-webdav)<br/>Access Hippo Repository via JCR over WebDAV connections.|[Repository](https://github.com/bloomreach-forge/hippo-jcr-over-webdav/)|
 
 ##### Projects for Bloomreach Experience Manager 12 (f.k.a. Hippo CMS 12)
 The following projects are available for version 12 and possibly lower. Upgrade efforts are very welcome,
