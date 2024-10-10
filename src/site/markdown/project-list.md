@@ -30,13 +30,8 @@ The following projects are available for version 16 and possibly lower.
 |24|[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 |25|[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
 |26|[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
-|27 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-
-##### Projects for Bloomreach Experience Manager 14
-The following projects are available for version 14 and possibly lower.
-
-|--|----------|----------|
-|1 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|27|[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+|28|[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
@@ -61,9 +56,6 @@ see [code contributions](development.html#Code_Contributions).
 |5 |[HST Apache Shiro Integration Support](https://bloomreach-forge.github.io/hst-shiro)<br/>Combine Apache Shiro with HST.|[Repository](https://github.com/bloomreach-forge/hst-shiro/)|
 |6 |[HST PDF Renderer](https://bloomreach-forge.github.io/hst-pdf-renderer)<br/>Transform HTML output into PDF output in your site.|[Repository](https://github.com/bloomreach-forge/hst-pdf-renderer/)|
 
-##### Projects for Bloomreach Experience Manager 11 (f.k.a. Hippo CMS 11)
-The following projects are available for version 11 and possibly lower. Upgrade efforts are very welcome, see
-[code contributions](development.html#Code_Contributions).
 ---
 ##### Retired projects
 The following projects are retired by the team. They are not maintained any more and/or superseded by other functionalities.
