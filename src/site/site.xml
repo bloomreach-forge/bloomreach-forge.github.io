@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Bloomreach Forge Documentation">
+<site xmlns="http://maven.apache.org/SITE/2.0.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://maven.apache.org/SITE/2.0.0 https://maven.apache.org/xsd/site-2.0.0.xsd"
+      name="Bloomreach Forge Documentation">
 
   <skin>
     <groupId>org.bloomreach.forge.mavenskin</groupId>
     <artifactId>forge-maven-skin</artifactId>
-    <version>3.2.1</version>
+    <version>3.2.2</version>
   </skin>
 
   <custom>
@@ -27,4 +30,4 @@
       <item name="Quality Checklist" href="checklist.html" />
     </menu>
   </body>
-</project>
+</site>
