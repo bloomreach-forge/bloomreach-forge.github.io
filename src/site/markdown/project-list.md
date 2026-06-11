@@ -10,6 +10,7 @@ The following projects are available for version 17 and possibly lower.
 | 3 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 | 4 |[Folder Context Menus](https://bloomreach-forge.github.io/folder-context-menus)<br/>Add extra options to the folder context menu.|[Repository](https://github.com/bloomreach-forge/folder-context-menus/)|
 | 5 |[Breadcrumb](https://bloomreach-forge.github.io/breadcrumb)<br/>An HST component providing a site breadcrumb.|[Repository](https://github.com/bloomreach-forge/breadcrumb/)|
+| 6 |[xm-s3-manager](https://github.com/bloomreach-forge/xm-s3-manager)<br/>Make use of your S3 assets in the CMS documents.|[Repository](https://github.com/bloomreach-forge/xm-s3-manager)|
 
 ##### Projects for Bloomreach Experience Manager 16
 The following projects are available for version 16 and possibly lower.
@@ -39,9 +40,8 @@ The following projects are available for version 16 and possibly lower.
 | 21 |[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
 | 22 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
 | 23 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-| 24 |[xm-s3-manager](https://github.com/bloomreach-forge/xm-s3-manager)<br/>Make use of your S3 assets in the CMS documents.|[Repository](https://github.com/bloomreach-forge/xm-s3-manager)|
-| 25 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
-| 26 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
+| 24 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
+| 25 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
