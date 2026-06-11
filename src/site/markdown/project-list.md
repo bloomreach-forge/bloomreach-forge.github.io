@@ -9,6 +9,7 @@ The following projects are available for version 17 and possibly lower.
 | 2 |[IFrame Perspective](https://bloomreach-forge.github.io/iframe-perspective)<br/>Add a CMS Perspective using an IFrame.|[Repository](https://github.com/bloomreach-forge/iframe-perspective/)|
 | 3 |[Review Workflow](https://github.com/bloomreach-forge/review-workflow/blob/master/README.md)<br/>Enable the user to request a review after a document change.|[Repository](https://github.com/bloomreach-forge/review-workflow/)|
 | 4 |[Folder Context Menus](https://bloomreach-forge.github.io/folder-context-menus)<br/>Add extra options to the folder context menu.|[Repository](https://github.com/bloomreach-forge/folder-context-menus/)|
+| 5 |[Breadcrumb](https://bloomreach-forge.github.io/breadcrumb)<br/>An HST component providing a site breadcrumb.|[Repository](https://github.com/bloomreach-forge/breadcrumb/)|
 
 ##### Projects for Bloomreach Experience Manager 16
 The following projects are available for version 16 and possibly lower.
@@ -17,31 +18,30 @@ The following projects are available for version 16 and possibly lower.
 |----|---------|------------|
 | 1  |[Apache Camel Hippo Events Support](https://bloomreach-forge.github.io/camel-events-support)<br/>Use Apache Camel from Hippo Event Bus.|[Repository](https://github.com/bloomreach-forge/camel-events-support/)|
 | 2  |[Bloomreach XM Utilities](https://bloomreach-forge.github.io/hippo-utilities)<br/>Generic code for reusage.|[Repository](https://github.com/bloomreach-forge/hippo-utilities/)|
-| 3  |[Breadcrumb](https://bloomreach-forge.github.io/breadcrumb)<br/>An HST component providing a site breadcrumb.|[Repository](https://github.com/bloomreach-forge/breadcrumb/)|
-| 4  |[Content Export / Import](https://bloomreach-forge.github.io/content-export-import)<br/>Higher level Content Export and Import.|[Repository](https://github.com/bloomreach-forge/content-export-import/)|
-| 5  |[Document Commenting Plugin](https://bloomreach-forge.github.io/document-commenting)<br/>Add commenting functionality for content editors in the CMS.|[Repository](https://github.com/bloomreach-forge/document-commenting/)|
-| 6  |[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
-| 7  |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
-| 8  |[External Document Picker](https://bloomreach-forge.github.io/external-document-picker)<br/>Implement external document pickers for the CMS.|[Repository](https://github.com/bloomreach-forge/external-document-picker/)|
-| 9  |[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
-| 10 |[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
-| 11 |[HST Content Version Utils](https://bloomreach-forge.github.io/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Repository](https://github.com/bloomreach-forge/hst-content-version-utils/)|
-| 12 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
-| 13 |[IP Filter Plugin](https://bloomreach-forge.github.io/ip-filter)<br/>Control access to CMS and site on IP level.|[Repository](https://github.com/bloomreach-forge/ip-filter/)|
-| 14 |[JCR POJO Binding](https://bloomreach-forge.github.io/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Repository](https://github.com/bloomreach-forge/jcr-pojo-binding/)|
-| 15 |[Localization Shortcut](https://github.com/bloomreach-forge/localization-shortcut/blob/master/release-notes.md)<br/>Change your current locale and timezone from th CMS.|[Repository](https://github.com/bloomreach-forge/localization-shortcut/)|
-| 16 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
-| 17 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
-| 18 |[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-| 19 |[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
-| 20 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
-| 21 |[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
-| 22 |[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
-| 23 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
-| 24 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-| 25 |[xm-s3-manager](https://github.com/bloomreach-forge/xm-s3-manager)<br/>Make use of your S3 assets in the CMS documents.|[Repository](https://github.com/bloomreach-forge/xm-s3-manager)|
-| 26 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
-| 27 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
+| 3  |[Content Export / Import](https://bloomreach-forge.github.io/content-export-import)<br/>Higher level Content Export and Import.|[Repository](https://github.com/bloomreach-forge/content-export-import/)|
+| 4  |[Document Commenting Plugin](https://bloomreach-forge.github.io/document-commenting)<br/>Add commenting functionality for content editors in the CMS.|[Repository](https://github.com/bloomreach-forge/document-commenting/)|
+| 5  |[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
+| 6  |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
+| 7  |[External Document Picker](https://bloomreach-forge.github.io/external-document-picker)<br/>Implement external document pickers for the CMS.|[Repository](https://github.com/bloomreach-forge/external-document-picker/)|
+| 8  |[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
+| 9  |[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
+| 10 |[HST Content Version Utils](https://bloomreach-forge.github.io/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Repository](https://github.com/bloomreach-forge/hst-content-version-utils/)|
+| 11 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
+| 12 |[IP Filter Plugin](https://bloomreach-forge.github.io/ip-filter)<br/>Control access to CMS and site on IP level.|[Repository](https://github.com/bloomreach-forge/ip-filter/)|
+| 13 |[JCR POJO Binding](https://bloomreach-forge.github.io/jcr-pojo-binding)<br/>Map JCR Nodes to simple beans.|[Repository](https://github.com/bloomreach-forge/jcr-pojo-binding/)|
+| 14 |[Localization Shortcut](https://github.com/bloomreach-forge/localization-shortcut/blob/master/release-notes.md)<br/>Change your current locale and timezone from th CMS.|[Repository](https://github.com/bloomreach-forge/localization-shortcut/)|
+| 15 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
+| 16 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
+| 17 |[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
+| 18 |[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
+| 19 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
+| 20 |[Servlet Filter Decorators](https://bloomreach-forge.github.io/servlet-filter-decorators)<br/>Wrap/unwrap request context paths on behalf of third party (security) filters.|[Repository](https://github.com/bloomreach-forge/servlet-filter-decorators/)|
+| 21 |[Sitemap-v2](https://github.com/bloomreach-forge/sitemapv2)<br/>Generate sitemap.xml - an alternative for the standard sitemap plugin.|[Repository](https://github.com/bloomreach-forge/sitemapv2)|
+| 22 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+| 23 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
+| 24 |[xm-s3-manager](https://github.com/bloomreach-forge/xm-s3-manager)<br/>Make use of your S3 assets in the CMS documents.|[Repository](https://github.com/bloomreach-forge/xm-s3-manager)|
+| 25 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
+| 26 |[Generic Resource Entity Builder API](https://bloomreach-forge.github.io/greb-api)<br/>Generic Resource Entity Builder (GREB) API allowing a simple, flexible JSON producing in standard HstComponents|[Repository](https://github.com/bloomreach-forge/greb-api/)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
