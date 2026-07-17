@@ -19,6 +19,7 @@ The following projects are available for version 17 and possibly lower.
 | 12 |[Embargo Plugin](https://bloomreach-forge.github.io/embargo)<br/>Put documents, assets and images under embargo, for other CMS users not to see them.|[Repository](https://github.com/bloomreach-forge/embargo/)|
 | 13 |[Reset Password](https://bloomreach-forge.github.io/reset-password)<br/>Have your CMS password reset.|[Repository](https://github.com/bloomreach-forge/reset-password/)
 | 14 |[Localization Shortcut](https://github.com/bloomreach-forge/localization-shortcut/blob/master/release-notes.md)<br/>Change your current locale and timezone from th CMS.|[Repository](https://github.com/bloomreach-forge/localization-shortcut/)|
+| 15 |[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
 
 ##### Projects for Bloomreach Experience Manager 16
 The following projects are available for version 16 and possibly lower.
@@ -32,16 +33,15 @@ The following projects are available for version 16 and possibly lower.
 | 5  |[Document Translation Picker](https://bloomreach-forge.github.io/document-translation-picker)<br/>Pick an existing document as a translation for another document.|[Repository](https://github.com/bloomreach-forge/document-translation-picker/)|
 | 6  |[External Document Picker](https://bloomreach-forge.github.io/external-document-picker)<br/>Implement external document pickers for the CMS.|[Repository](https://github.com/bloomreach-forge/external-document-picker/)|
 | 7  |[Feeds](https://bloomreach-forge.github.io/feeds)<br/>Create RSS and ATOM feeds based on CMS documents.|[Repository](https://github.com/bloomreach-forge/feeds/)|
-| 8  |[Gallery Magick Image Processing](https://bloomreach-forge.github.io/gallery-magick)<br/>Alternative image processing.|[Repository](https://github.com/bloomreach-forge/gallery-magick/)|
-| 9  |[HST Content Version Utils](https://bloomreach-forge.github.io/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Repository](https://github.com/bloomreach-forge/hst-content-version-utils/)|
-| 10 |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
-| 11 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
-| 12 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
-| 13 |[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
-| 14 |[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
-| 15 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
-| 16 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
-| 17 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
+| 8  |[HST Content Version Utils](https://bloomreach-forge.github.io/hst-content-version-utils)<br/>Retrieve versioned, frozen nodes content using HST Content Beans.|[Repository](https://github.com/bloomreach-forge/hst-content-version-utils/)|
+| 9  |[HST Spring Security Support](https://bloomreach-forge.github.io/hst-spring-security)<br/>Combine HST Spring Security with HST.|[Repository](https://github.com/bloomreach-forge/hst-spring-security/)|
+| 10 |[OAI-PMH Provider](https://bloomreach-forge.github.io/oai-pmh-provider)<br/>Provide a REST resource for the PMH protocol from Open Archives Initiative.|[Repository](https://github.com/bloomreach-forge/oai-pmh-provider/)|
+| 11 |[Page Flow](https://bloomreach-forge.github.io/page-flow)<br/>Manage states of pages with Page Flow documents in the CMS.|[Repository](https://github.com/bloomreach-forge/page-flow/)|
+| 12 |[Page Management Support](https://bloomreach-forge.github.io/page-management-support)<br/>Copy content when a page is copied in the Channel Manager.|[Repository](https://github.com/bloomreach-forge/page-management-support/)|
+| 13 |[Properties Plugin](https://bloomreach-forge.github.io/properties)<br/>Create and use documents with a flat list of name/value pairs.|[Repository](https://github.com/bloomreach-forge/properties/)|
+| 14 |[Templating Support](https://bloomreach-forge.github.io/templating-support)<br/>Use Handlebars or Thymeleaf templates instead of Freemarker.|[Repository](https://github.com/bloomreach-forge/templating-support/)|
+| 15 |[Version History Cleaner](https://bloomreach-forge.github.io/version-history-cleaner/)<br/>Clean up old document revisions in version history on publication events.|[Repository](https://github.com/bloomreach-forge/version-history-cleaner/)|
+| 16 |[xm-configuration-editor](https://github.com/bloomreach-forge/xm-configuration-editor)<br/>The Configuration Editor is an Open UI Page Tool extension in the experience manager to edit HST configuration.|[Repository](https://github.com/bloomreach-forge/xm-configuration-editor)|
 
 ##### Projects for Bloomreach Experience Manager 13
 The following projects are available for version 13 and possibly lower.
